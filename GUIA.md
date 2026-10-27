@@ -11,16 +11,18 @@ Mulheres de 25 a 50 anos que **já tentaram de tudo pra emagrecer e não consegu
 - Acolhedor e direto, como uma amiga que entende do assunto. Português do Brasil, frases curtas.
 - A mensagem central é sempre esta: **o problema nunca foi ela, foi o método.**
 - Comida de verdade (arroz, feijão, ovo, frango, fígado, legumes, banana, aveia), proteína em todas as refeições, treino de força em casa, constância e sono.
-- Nada de culpa, vergonha do corpo ou "projeto verão". Nunca chame corpo de feio, gordo ou "fora de forma".
+- Pode ser direto e provocativo: ganchos com datas e prazos ("chegar no Natal mais magra", "projeto verão"), urgência, frases fortes e o preço do ebook quando fizer sentido.
 
-## Regras obrigatórias (nunca quebrar)
+## Regras obrigatórias (só estas quatro)
 
 1. **Personagem sempre fictícia:** só primeiro nome, idade e profissão comum. Nunca use nome de pessoa real, influenciadora ou famosa. Nunca use fotos.
-2. **Resultados realistas:** em 12 semanas, de −3 a −6 kg e de −4 a −8 cm de cintura. Nada de "−10 kg em 30 dias". Perda de peso de no máximo ~1% do peso por semana.
+2. **Resultados realistas:** em 12 semanas, de −3 a −6 kg e de −4 a −8 cm de cintura (em prazos menores, proporcionalmente menos). Perda de no máximo ~1% do peso por semana.
 3. **O slide de resultado (tipo `resultado`) é obrigatório**, porque é ele que traz o aviso "Personagem e resultados ilustrativos. Os resultados variam de pessoa para pessoa." Esse aviso também vai em toda legenda.
-4. **Proibido:** remédios, canetas emagrecedoras, chás, termogênicos, jejum prolongado, dietas abaixo de 1.200 kcal, contagem obsessiva, pesagem diária obrigatória, "nunca mais coma X", promessas de prazo ("magra até o Natal"), linguagem médica, diagnósticos. Pode **citar** dietas da moda como algo que **não funcionou** para a personagem, nunca como recomendação.
-5. **Sem preço do ebook** nos slides nem na legenda; o CTA é sempre "Comente QUERO".
-6. **Não repita** personagem, profissão ou ângulo publicados nos últimos 30 posts (veja `historico.md`).
+4. **Não recomendar** remédios, canetas emagrecedoras, chás ou termogênicos "emagrecedores", jejum prolongado ou dietas abaixo de 1.200 kcal. Pode citá-los como coisas que a personagem tentou e que não funcionaram.
+
+Fora isso, está tudo liberado. Também vale: **não repita** personagem, profissão ou ângulo publicados nos últimos 30 posts (veja `historico.md`).
+
+**Preço do ebook (para usar no slide 7 ou na legenda, se quiser):** [DEFINIR PREÇO]. Enquanto estiver "[DEFINIR PREÇO]", não cite valor.
 
 ## Ângulos de história (vá rodando; crie novos parecidos)
 
