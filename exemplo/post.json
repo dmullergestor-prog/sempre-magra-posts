@@ -1,0 +1,28 @@
+{
+  "id": "exemplo",
+  "personagem": "Juliana, 41 anos, enfermeira de plantão",
+  "angulo": "sem tempo e comendo besteira no plantão",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu não tenho *tempo* nem pra mim.\"", "texto": "A Juliana trabalha 12 horas por plantão. Emagrecer parecia impossível.",
+     "adesivos": ["Salgado da cantina", "Café com açúcar", "Refri pra acordar", "Pizza às 2h", "Jantar em pé", "Pular o almoço"], "arremate": "...todo plantão.", "rodape": "A história da Juliana"},
+    {"tipo": "tabela", "tag": "Um plantão comum", "titulo": "Ela nem percebia quanto comia sem querer.", "texto": "Contou tudo o que comeu num plantão de 12 horas:",
+     "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+     "linhas": [["2 salgados fritos", "620", "14 g"], ["4 cafés com açúcar", "240", "0 g"], ["1 lata de refri", "140", "0 g"], ["2 fatias de pizza", "560", "22 g"]],
+     "total": ["No plantão", "1.560", "36 g"]},
+    {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era gula. Era *fome mal resolvida*.", "texto": "Sem proteína, a energia subia e despencava o plantão todo.",
+     "valores": [5, 9, 3, 8, 2, 9, 2, 7, 1], "cor": "coral", "legenda_grafico": "Energia no plantão", "selo_grafico": "montanha-russa", "inicio": "19h", "fim": "7h",
+     "blocos": [{"titulo": "Pico de açúcar,", "texto": "queda logo depois."}, {"titulo": "Queda de energia,", "texto": "mais vontade de doce."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *levar a comida* de casa.", "texto": "Marmita montada no domingo, 3 vezes por semana.",
+     "blocos": [{"icone": "egg", "titulo": "Ovos cozidos", "texto": "lanche de bolso"}, {"icone": "drumstick", "titulo": "Frango desfiado", "texto": "com arroz e feijão"}, {"icone": "banana", "titulo": "Banana", "texto": "no lugar do refri"}],
+     "citacao": "\"Eu passei a chegar em casa *sem aquela fome de leão*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "15 minutos de força, *antes do plantão*.", "texto": "Nos dias de folga, 35 minutos na sala de casa.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "prancha", "titulo": "Prancha"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mais energia no plantão. *Menos 7 cm* de cintura.",
+     "valores": [92, 91.5, 90.6, 90, 89.1, 88.4, 88, 87.2, 86.6, 86, 85.5, 85], "cor": "verde",
+     "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "R$ 0", "rotulo": "na cantina"}],
+     "citacao": "\"Eu achava que precisava de tempo. *Precisava era de um plano.*\""},
+    {"tipo": "cta", "titulo": "Você não precisa de mais tempo. *Precisa de um plano.*", "texto": "O passo a passo que a Juliana seguiu está no guia **Shape no Bolso**.",
+     "itens": ["**Marmitas** pra semana em 2 horas", "**Cardápios prontos** com comida de casa", "**Treino em casa** que cabe na rotina", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
