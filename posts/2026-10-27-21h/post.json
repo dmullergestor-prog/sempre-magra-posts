@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-27-21h",
+  "personagem": "Patrícia, 38 anos, recepcionista de clínica",
+  "angulo": "belisca o dia todo e jura que não come nada",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Mas eu *quase não como* nada!\"", "texto": "A Patrícia jurava que comia pouco. O problema estava nos intervalos.",
+     "adesivos": ["Bolacha da gaveta", "Bala no balcão", "Cafezinho doce", "Pão de queijo", "Resto do bolo", "Sem almoço"], "arremate": "...só um pouquinho.", "rodape": "A história da Patrícia"},
+    {"tipo": "tabela", "tag": "Um dia comum", "titulo": "Ela anotou tudo por um dia. *Levou um susto.*", "texto": "Só o que ela comia \"sem perceber\" no trabalho:",
+     "cabecalho": ["O que beliscou", "Kcal", "Proteína"],
+     "linhas": [["1 pacote de bolacha", "480", "6 g"], ["5 cafés com açúcar", "300", "0 g"], ["2 pães de queijo", "280", "6 g"], ["Balas e bombom", "250", "1 g"]],
+     "total": ["Beliscando", "1.310", "13 g"]},
+    {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era falta de força. Era *fome o dia todo*.", "texto": "Sem refeição de verdade, a fome nunca ia embora. Só mudava de hora.",
+     "valores": [4, 7, 3, 8, 4, 7, 3, 9, 5], "cor": "coral", "legenda_grafico": "Vontade de beliscar", "selo_grafico": "nunca passa", "inicio": "8h", "fim": "18h",
+     "blocos": [{"titulo": "Pulava o almoço,", "texto": "beliscava a tarde inteira."}, {"titulo": "Zero proteína,", "texto": "zero saciedade."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou 10 beliscadas por *3 refeições de verdade*.", "texto": "Prato cheio no almoço e um lanche pronto na bolsa.",
+     "blocos": [{"icone": "rice", "titulo": "Arroz e feijão", "texto": "no almoço, sem pular"}, {"icone": "fried_egg", "titulo": "Ovo e carne", "texto": "proteína em todo prato"}, {"icone": "peanut", "titulo": "Banana e amendoim", "texto": "no lugar da gaveta"}],
+     "citacao": "\"A gaveta de bolacha virou *gaveta de banana*. E a fome sumiu.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de força, *3 vezes por semana*.", "texto": "Na sala de casa, antes do jantar. Sem equipamento.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "remada", "titulo": "Remada"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem fome o dia todo. *Menos 6 cm* de cintura.",
+     "valores": [76, 75.6, 75.1, 74.8, 74.2, 73.9, 73.4, 73, 72.7, 72.3, 72.1, 71.8], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "bolachas na gaveta"}],
+     "citacao": "\"Eu não comia pouco. *Eu comia errado, o dia inteiro.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava comida de verdade no prato.*", "texto": "O passo a passo da Patrícia está no guia **Shape no Bolso**. R$ 28,99, pagamento único.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 min", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
