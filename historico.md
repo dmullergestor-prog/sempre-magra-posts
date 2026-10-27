@@ -5,3 +5,4 @@
 | 26/10/2026 | (manual) | Rafa, homem | dieta cara de influencer → arroz e feijão | publicado manualmente | — |
 | 27/10/2026 | (manual) | Camila, 34, mãe de 2 | efeito sanfona, 5 anos de dieta | publicado manualmente | — |
 | — | exemplo | Juliana, 41, enfermeira de plantão | sem tempo, cantina no plantão | modelo (não publicado) | — |
+| 27/10/2026 21h | posts/2026-10-27-21h | Patrícia, 38, recepcionista de clínica | belisca o dia todo e "não come nada" | gerado, não publicado: erro | Windsor: write actions desativadas para o usuário sosofertas@almanaquesos.com (Settings > API Access) |
