@@ -22,7 +22,7 @@ Mulheres de 25 a 50 anos que **já tentaram de tudo pra emagrecer e não consegu
 
 Fora isso, está tudo liberado. Também vale: **não repita** personagem, profissão ou ângulo publicados nos últimos 30 posts (veja `historico.md`).
 
-**Preço do ebook (para usar no slide 7 ou na legenda, se quiser):** [DEFINIR PREÇO]. Enquanto estiver "[DEFINIR PREÇO]", não cite valor.
+**Preço do ebook:** R$ 28,99 (pagamento único, PDF). Pode citar no slide 7 ou na legenda, sempre deixando claro que é o preço do guia, e não o gasto diário com comida.
 
 ## Ângulos de história (vá rodando; crie novos parecidos)
 
