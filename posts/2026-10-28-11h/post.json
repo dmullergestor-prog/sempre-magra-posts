@@ -1,0 +1,26 @@
+{
+  "id": "2026-10-28-11h",
+  "personagem": "Fernanda, 33 anos, operadora de caixa",
+  "angulo": "só fazia cardio e não via mudança",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu corria *todo dia* e não secava nada.\"", "texto": "A Fernanda fazia 1 hora de esteira e o corpo continuava igual.",
+     "adesivos": ["1h de esteira", "Spinning cedo", "Corrida em jejum", "Só salada", "Pular o jantar", "Zero musculação"], "arremate": "...e nada mudava.", "rodape": "A história da Fernanda"},
+    {"tipo": "tabela", "tag": "Uma semana dela", "titulo": "Muito suor. *Quase nenhum resultado.*", "texto": "O que ela fazia toda semana, há 2 anos:",
+     "cabecalho": ["Atividade", "Tempo", "Força"],
+     "linhas": [["Esteira", "5 h", "nenhuma"], ["Spinning", "2 h", "nenhuma"], ["Caminhada", "3 h", "nenhuma"], ["Treino de força", "0 h", "—"]],
+     "total": ["Na semana", "10 h", "zero"]},
+    {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Cardio queima na hora. *Músculo queima o dia todo.*", "texto": "Só cardio, comendo pouco, fazia o corpo perder músculo junto com a gordura.",
+     "blocos": [{"titulo": "Mais cardio,", "texto": "mais fome no fim do dia."}, {"titulo": "Pouca proteína,", "texto": "o corpo usa o próprio músculo."}, {"titulo": "Menos músculo,", "texto": "o corpo gasta menos parado."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *comer pra ter força*.", "texto": "Proteína em todas as refeições, até no intervalo do caixa.",
+     "blocos": [{"icone": "egg", "titulo": "Ovos cozidos", "texto": "no intervalo"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "de volta ao almoço"}, {"icone": "drumstick", "titulo": "Frango", "texto": "na marmita da noite"}],
+     "citacao": "\"Eu parei de chegar em casa *morrendo de fome*.\""},
+    {"tipo": "texto", "tag": "Menos esteira", "titulo": "Trocou 1 hora de esteira por *35 minutos de força*.", "texto": "3 vezes por semana, na sala de casa. A caminhada ficou nos outros dias.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "flexão", "titulo": "Flexão"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Menos tempo treinando. *Menos 6 cm* de cintura.",
+     "valores": [72, 71.7, 71.3, 71, 70.6, 70.3, 69.9, 69.6, 69.2, 68.9, 68.5, 68], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "−6 h", "rotulo": "de esteira/semana"}],
+     "citacao": "\"Eu não precisava correr mais. *Precisava treinar diferente.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Te deram o método errado.*", "texto": "O passo a passo da Fernanda está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["**Treino de força em casa**, em 35 minutos", "Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
