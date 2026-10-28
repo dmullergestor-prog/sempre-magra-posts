@@ -1,0 +1,26 @@
+{
+  "id": "2026-10-28-07h",
+  "personagem": "Cláudia, 46 anos, professora de escola pública",
+  "angulo": "40+, achava que o metabolismo travou",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Depois dos 40, meu *metabolismo travou*.\"", "texto": "A Cláudia comia cada vez menos e o ponteiro não saía do lugar.",
+     "adesivos": ["Só salada", "Pular o jantar", "Dieta da sopa", "Shake no almoço", "Chá milagroso", "Zero carboidrato"], "arremate": "...e nada mudava.", "rodape": "A história da Cláudia"},
+    {"tipo": "tabela", "tag": "5 anos de tentativa", "titulo": "Cada dieta tirava um pouco. E devolvia *com juros*.", "texto": "O que ela tentou desde os 41 anos:",
+     "cabecalho": ["Dieta", "Perdeu", "Voltou"],
+     "linhas": [["Sopa por 15 dias", "−3 kg", "+4 kg"], ["Shake no almoço", "−4 kg", "+5 kg"], ["Zero carboidrato", "−5 kg", "+6 kg"], ["Chá \"seca barriga\"", "0 kg", "+1 kg"]],
+     "total": ["No fim", "−12 kg", "+16 kg"]},
+    {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "O metabolismo não travou. *Faltava músculo.*", "texto": "Depois dos 40, quem come pouco e não treina força perde massa magra.",
+     "blocos": [{"titulo": "Pouca proteína,", "texto": "o corpo usa o próprio músculo."}, {"titulo": "Menos músculo,", "texto": "o corpo gasta menos energia parado."}, {"titulo": "Comer cada vez menos", "texto": "só aumentava a fome no fim do dia."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela parou de cortar e passou a *comer melhor*.", "texto": "Proteína em todas as refeições e arroz com feijão de volta ao prato.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovos no café", "texto": "fome só no almoço"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "sem medo"}, {"icone": "drumstick", "titulo": "Frango ou carne", "texto": "no almoço e no jantar"}],
+     "citacao": "\"Eu comia mais do que nas dietas e, mesmo assim, *a calça foi folgando*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *3 vezes por semana*.", "texto": "30 minutos na sala, depois da última aula do dia.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "afundo", "titulo": "Afundo"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mais forte aos 46. *Menos 6 cm* de cintura.",
+     "valores": [79, 78.6, 78.3, 77.9, 77.5, 77.2, 76.8, 76.4, 76.1, 75.7, 75.4, 75], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "dietas da moda"}],
+     "citacao": "\"O problema nunca foi a minha idade. *Era o método.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Te deram o método errado.*", "texto": "O passo a passo da Cláudia está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
