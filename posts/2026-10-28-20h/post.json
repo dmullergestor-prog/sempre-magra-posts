@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-28-20h",
+  "personagem": "Aline, 36 anos, vendedora de loja de calçados",
+  "angulo": "fim de semana que estraga a semana",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"De segunda a sexta eu sou *perfeita*.\"", "texto": "A Aline fazia tudo certo na semana. Chegava o sábado e ia tudo embora.",
+     "adesivos": ["Pizza de sexta", "Churrasco e cerveja", "Rodízio de domingo", "Brigadeiro de festa", "Só salada na semana", "Culpa na segunda"], "arremate": "...toda semana.", "rodape": "A história da Aline"},
+    {"tipo": "tabela", "tag": "Uma semana comum", "titulo": "A semana passava *fome*. O fim de semana !cobrava!.", "texto": "Ela anotou tudo o que comeu numa semana:",
+     "cabecalho": ["Dia", "Kcal", "Proteína"],
+     "linhas": [["Seg a qui", "1.100", "40 g"], ["Sexta", "2.400", "45 g"], ["Sábado", "3.100", "60 g"], ["Domingo", "2.800", "55 g"]],
+     "total": ["Média do dia", "1.814", "46 g"]},
+    {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era falta de força de vontade. Era *fome acumulada*.", "texto": "Cortar demais na semana fazia o corpo cobrar no sábado.",
+     "valores": [2, 3, 4, 5, 7, 9, 8], "cor": "coral", "legenda_grafico": "Fome ao longo da semana", "selo_grafico": "efeito rebote", "inicio": "seg", "fim": "dom",
+     "blocos": [{"titulo": "Restrição demais,", "texto": "fome guardada pro fim de semana."}, {"titulo": "Exagero e culpa,", "texto": "e na segunda, restrição de novo."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela parou de *passar fome* durante a semana.", "texto": "Comida de verdade, com proteína em todas as refeições.",
+     "blocos": [{"icone": "egg", "titulo": "Ovos no café", "texto": "nada de pular"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "no almoço, sem medo"}, {"icone": "drumstick", "titulo": "Frango ou carne", "texto": "no jantar também"}],
+     "citacao": "\"No sábado eu já não chegava *morrendo de fome*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Treino de força em casa, *3 vezes na semana*.", "texto": "30 minutos na sala. No sábado, caminhada antes do churrasco.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Churrasco no domingo. *Menos 6 cm* de cintura.",
+     "valores": [78, 77.6, 77.1, 76.8, 76.3, 76, 75.6, 75.2, 74.9, 74.5, 74.2, 74], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "recomeços na segunda"}],
+     "citacao": "\"Eu não precisava compensar. *Precisava parar de me castigar.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou no fim de semana. *Falhou o método.*", "texto": "O passo a passo da Aline está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
