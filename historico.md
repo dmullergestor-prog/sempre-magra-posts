@@ -10,3 +10,4 @@
 | 28/10/2026 11h | posts/2026-10-28-11h | Fernanda, 33, operadora de caixa | só fazia cardio e não via mudança | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
 | 28/10/2026 20h | posts/2026-10-28-20h | Aline, 36, vendedora de loja de calçados | fim de semana que estraga a semana | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
 | 29/10/2026 07h | posts/2026-10-29-07h | Renata, 39, atendente de suporte em home office | home office, não sai da cadeira e belisca na cozinha | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
+| 29/10/2026 12h | posts/2026-10-29-12h | Tatiane, 35, cabeleireira | pulava café da manhã e almoço, atacava à noite | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
