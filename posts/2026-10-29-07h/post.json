@@ -1,0 +1,26 @@
+{
+  "id": "2026-10-29-07h",
+  "personagem": "Renata, 39 anos, atendente de suporte em home office",
+  "angulo": "home office, não sai da cadeira e belisca na cozinha",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu trabalho a *3 passos* da geladeira.\"", "texto": "A Renata foi pro home office e ganhou 8 kg em dois anos sem perceber.",
+     "adesivos": ["Biscoito na mesa", "Café com açúcar", "Almoço no teclado", "Pão às 16h", "Zero passos", "Delivery à noite"], "arremate": "...todo santo dia.", "rodape": "A história da Renata"},
+    {"tipo": "tabela", "tag": "Um dia de trabalho", "titulo": "Ela jurava que *quase não comia*.", "texto": "Anotou tudo o que beliscou num dia de expediente em casa:",
+     "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+     "linhas": [["Meio pacote de biscoito", "450", "6 g"], ["3 cafés com açúcar", "180", "0 g"], ["2 pães com manteiga", "400", "10 g"], ["Lanche do delivery", "750", "28 g"]],
+     "total": ["No dia", "1.780", "44 g"]},
+    {"tipo": "texto", "tag": "Não era preguiça", "titulo": "O problema era a *rotina*, não a força de vontade.", "texto": "O home office tirou dela o movimento e a hora certa de comer.",
+     "blocos": [{"titulo": "Menos de 2 mil passos,", "texto": "o corpo quase não gastava."}, {"titulo": "Pouca proteína,", "texto": "fome a tarde inteira."}, {"titulo": "Comida à vista,", "texto": "beliscar virou automático."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *parar pra comer* de verdade.", "texto": "Horário marcado na agenda, longe do computador.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovos mexidos", "texto": "no café da manhã"}, {"icone": "rice", "titulo": "Arroz, feijão e frango", "texto": "no almoço, sentada"}, {"icone": "banana", "titulo": "Banana e aveia", "texto": "no lugar do biscoito"}],
+     "citacao": "\"Quando eu almoçava direito, *a tarde parava de pedir doce*.\""},
+    {"tipo": "texto", "tag": "Sem sair de casa", "titulo": "Força na sala, *nos intervalos* do trabalho.", "texto": "20 minutos antes do expediente e uma volta no quarteirão no almoço.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão na parede"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Saiu da cadeira. *Menos 6 cm* de cintura.",
+     "valores": [78, 77.6, 77.1, 76.7, 76.2, 75.9, 75.4, 75, 74.6, 74.3, 73.9, 73.5], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "7 mil", "rotulo": "passos por dia"}],
+     "citacao": "\"Eu não precisava de academia. *Precisava sair da cadeira.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Sua rotina só nunca teve um plano.*", "texto": "O passo a passo que a Renata seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
