@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-29-12h",
+  "personagem": "Tatiane, 35 anos, cabeleireira",
+  "angulo": "pulava o café da manhã e o almoço e atacava a geladeira à noite",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu passava o dia *sem comer* e mesmo assim engordava.\"", "texto": "A Tatiane atende cliente atrás de cliente e só lembrava de comer às 21h.",
+     "adesivos": ["Só café de manhã", "Almoço? Que almoço", "Bala no salão", "Pão às 21h", "Pizza no sofá", "Doce antes de dormir"], "arremate": "...todo santo dia.", "rodape": "A história da Tatiane"},
+    {"tipo": "tabela", "tag": "Um dia no salão", "titulo": "De dia, quase nada. *À noite, tudo de uma vez.*", "texto": "Ela anotou o que comeu num dia de agenda cheia:",
+     "cabecalho": ["Quando", "Kcal", "Proteína"],
+     "linhas": [["8h · 2 cafés com açúcar", "120", "0 g"], ["15h · balas e biscoito", "300", "3 g"], ["21h · 4 pães com frios", "900", "30 g"], ["23h · pote de sorvete", "500", "8 g"]],
+     "total": ["No dia", "1.820", "41 g"]},
+    {"tipo": "grafico", "tag": "Não era falta de controle", "titulo": "Era *fome acumulada* desde cedo.", "texto": "O corpo segurou o dia todo e cobrou tudo de uma vez à noite.",
+     "valores": [2, 3, 4, 5, 6, 7, 8, 9, 10], "cor": "coral", "legenda_grafico": "Fome ao longo do dia", "selo_grafico": "explode à noite", "inicio": "8h", "fim": "23h",
+     "blocos": [{"titulo": "Sem café da manhã,", "texto": "a fome só cresce."}, {"titulo": "Sem proteína,", "texto": "nada segura a vontade de doce."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela começou a *comer de dia* pra não atacar à noite.", "texto": "Comida simples, que dá pra comer entre um cliente e outro.",
+     "blocos": [{"icone": "egg", "titulo": "2 ovos cozidos", "texto": "antes de abrir o salão"}, {"icone": "rice", "titulo": "Marmita de arroz e feijão", "texto": "com frango, às 13h"}, {"icone": "banana", "titulo": "Banana com aveia", "texto": "no meio da tarde"}],
+     "citacao": "\"Pela primeira vez eu cheguei em casa *sem querer comer a geladeira*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *3 vezes por semana*.", "texto": "30 minutos na sala nos dias em que o salão abre mais tarde.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada com mochila"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Parou de atacar à noite. *Menos 7 cm* de cintura.",
+     "valores": [74, 73.6, 73.1, 72.7, 72.3, 71.9, 71.4, 71, 70.6, 70.2, 69.9, 69.5], "cor": "verde",
+     "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "4", "rotulo": "refeições por dia"}],
+     "citacao": "\"Eu achava que comer menos de dia ajudava. *Era o que me sabotava.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Passar fome nunca foi o caminho.*", "texto": "O passo a passo que a Tatiane seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas no domingo", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
