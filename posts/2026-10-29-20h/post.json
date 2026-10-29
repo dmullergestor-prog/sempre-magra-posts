@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-29-20h",
+  "personagem": "Simone, 42 anos, costureira",
+  "angulo": "dieta da sopa, do ovo, do shake e low carb radical: perdia e voltava",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Já fiz *toda dieta da moda*. Nenhuma ficou.\"", "texto": "A Simone costura o dia todo e começava dieta nova toda segunda.",
+     "adesivos": ["Dieta da sopa", "Dieta do ovo", "Shake no jantar", "Zero carboidrato", "Chá seca barriga", "Só salada"], "arremate": "...e voltava tudo.", "rodape": "A história da Simone"},
+    {"tipo": "tabela", "tag": "O histórico dela", "titulo": "Cada dieta tirou um pouco. *E devolveu com juros.*", "texto": "Ela anotou o que perdeu e o que voltou em 3 anos:",
+     "cabecalho": ["Dieta", "Perdeu", "Voltou"],
+     "linhas": [["Sopa por 7 dias", "−3 kg", "+4 kg"], ["Só ovo e carne", "−4 kg", "+5 kg"], ["Shake no lugar do jantar", "−5 kg", "+6 kg"], ["Zero carboidrato", "−6 kg", "+7 kg"]],
+     "total": ["Em 3 anos", "−18 kg", "+22 kg"]},
+    {"tipo": "grafico", "tag": "Não era falta de força", "titulo": "Era dieta feita *pra acabar*.", "texto": "Toda dieta radical tem data pra terminar. E aí o peso volta.",
+     "valores": [6, 3, 7, 4, 8, 4, 8, 5, 9], "cor": "coral", "legenda_grafico": "Peso em 3 anos", "selo_grafico": "efeito sanfona", "inicio": "2023", "fim": "2026",
+     "blocos": [{"titulo": "Cortar tudo,", "texto": "uma hora a fome vence."}, {"titulo": "Sem proteína e sem treino,", "texto": "perde músculo, não só gordura."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou a dieta da vez por *comida de casa*.", "texto": "Prato comum, com proteína em todas as refeições.",
+     "blocos": [{"icone": "rice", "titulo": "Arroz e feijão", "texto": "sem medo, na medida"}, {"icone": "drumstick", "titulo": "Frango ou ovo", "texto": "em todas as refeições"}, {"icone": "oats", "titulo": "Aveia com banana", "texto": "no café da manhã"}],
+     "citacao": "\"Foi a primeira vez que eu emagreci *comendo o mesmo que a família*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *entre uma encomenda e outra*.", "texto": "30 minutos na sala, 3 vezes por semana.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "remada", "titulo": "Remada com garrafa"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem dieta da moda. *Menos 6 cm* de cintura.",
+     "valores": [81, 80.6, 80.2, 79.8, 79.4, 79, 78.6, 78.3, 77.9, 77.6, 77.3, 77], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "dietas da moda"}],
+     "citacao": "\"Pela primeira vez eu não estou contando os dias *pra dieta acabar*.\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *As dietas é que falharam com você.*", "texto": "O passo a passo que a Simone seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com arroz, feijão e comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
