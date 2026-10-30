@@ -1,0 +1,24 @@
+{
+  "id": "2026-10-30-11h",
+  "personagem": "Priscila, 31 anos, auxiliar de farmácia",
+  "angulo": "tinha vergonha de treinar perto de outras pessoas (treino em casa)",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu pagava academia e *tinha vergonha* de entrar.\"", "texto": "A Priscila desistia antes do primeiro treino. E culpava a própria preguiça.",
+     "adesivos": ["Matrícula parada", "Medo do espelho", "Treino só no escuro", "Shake no jantar", "Dieta de segunda", "Doce escondido"], "arremate": "...todo mês.", "rodape": "A história da Priscila"},
+    {"tipo": "texto", "tag": "O que ela tentou", "titulo": "Ela tentou de tudo. *Sempre longe dos olhos dos outros.*", "texto": "Em 2 anos, a mesma história se repetiu:",
+     "blocos": [{"titulo": "Academia por 8 meses:", "texto": "foi 6 vezes, ficou no canto."}, {"titulo": "Caminhada às 22h,", "texto": "pra ninguém ver. Durou 2 semanas."}, {"titulo": "Shake no jantar:", "texto": "perdeu 3 kg e voltou 4."}, {"titulo": "Dieta de segunda,", "texto": "largada na quarta."}]},
+    {"tipo": "texto", "tag": "Não era preguiça", "titulo": "O problema era *o método*, não ela.", "texto": "Ninguém mantém um plano que dá medo de começar.",
+     "blocos": [{"titulo": "Vergonha trava.", "texto": "Plano que exige plateia não dura."}, {"titulo": "Shake não é comida.", "texto": "A fome voltava em dobro à noite."}, {"titulo": "Tudo ou nada", "texto": "vira nada na primeira semana ruim."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou o shake por *comida de verdade*.", "texto": "Proteína em todas as refeições, com o que já tinha em casa.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo mexido", "texto": "no café da manhã"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com frango no almoço"}, {"icone": "oats", "titulo": "Aveia e banana", "texto": "no lugar do doce"}],
+     "citacao": "\"Pela primeira vez eu *não ia dormir com fome*.\""},
+    {"tipo": "texto", "tag": "Sem plateia", "titulo": "30 minutos de força *no quarto, de porta fechada*.", "texto": "Sem espelho, sem ninguém olhando. 3 vezes por semana.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Nenhum treino na frente de ninguém. *Menos 7 cm.*",
+     "valores": [79, 78.6, 78.1, 77.7, 77.2, 76.9, 76.4, 76.1, 75.7, 75.4, 75.2, 75], "cor": "verde",
+     "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "36", "rotulo": "treinos em casa"}],
+     "citacao": "\"Eu não era preguiçosa. *Só precisava de um plano que coubesse no meu quarto.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava um plano sem plateia.*", "texto": "O passo a passo que a Priscila seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["**Treino de força em casa**, em 35 minutos", "**Cardápios prontos** com arroz, feijão e comida de casa", "Como calcular **quanto comer**, sem passar fome", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
