@@ -1,0 +1,182 @@
+{
+ "id": "2026-10-30-20h",
+ "personagem": "Vanessa, 32 anos, assistente administrativa",
+ "angulo": "ansiedade e doce à noite",
+ "slides": [
+  {
+   "tipo": "capa",
+   "titulo": "\"De dia eu me controlo. À noite, *ataco o doce*.\"",
+   "texto": "A Vanessa jurava que era falta de força de vontade.",
+   "adesivos": [
+    "Brigadeiro de panela",
+    "Chocolate escondido",
+    "Pular o almoço",
+    "Salada no jantar",
+    "Bolacha recheada",
+    "Sorvete no pote"
+   ],
+   "arremate": "...toda noite.",
+   "rodape": "A história da Vanessa"
+  },
+  {
+   "tipo": "tabela",
+   "tag": "Um dia comum",
+   "titulo": "Ela comia *pouco de dia* e muito à noite.",
+   "texto": "Um dia de semana dela:",
+   "cabecalho": [
+    "Horário",
+    "O que comeu",
+    "Proteína"
+   ],
+   "linhas": [
+    [
+     "8h",
+     "Só café preto",
+     "0 g"
+    ],
+    [
+     "13h",
+     "Salada e bolacha",
+     "4 g"
+    ],
+    [
+     "19h",
+     "Pão e margarina",
+     "6 g"
+    ],
+    [
+     "22h",
+     "Brigadeiro",
+     "5 g"
+    ]
+   ],
+   "total": [
+    "No dia",
+    "~1.700 kcal",
+    "15 g"
+   ]
+  },
+  {
+   "tipo": "grafico",
+   "tag": "O ciclo",
+   "titulo": "Não era fraqueza. Era *fome acumulada*.",
+   "texto": "Quanto menos comia de dia, mais forte vinha a vontade à noite.",
+   "valores": [
+    2,
+    2,
+    3,
+    3,
+    4,
+    5,
+    6,
+    8,
+    10
+   ],
+   "cor": "coral",
+   "legenda_grafico": "Vontade de doce",
+   "selo_grafico": "bola de neve",
+   "inicio": "8h",
+   "fim": "23h",
+   "blocos": [
+    {
+     "titulo": "Dia sem proteína,",
+     "texto": "corpo pedindo energia."
+    },
+    {
+     "titulo": "Cansaço e estresse,",
+     "texto": "o doce vira o alívio."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "A virada",
+   "titulo": "Ela passou a *comer de verdade* de dia.",
+   "texto": "Proteína nas 3 refeições e um lanche de tarde planejado.",
+   "blocos": [
+    {
+     "icone": "fried_egg",
+     "titulo": "Ovos no café",
+     "texto": "com pão ou cuscuz"
+    },
+    {
+     "icone": "beans",
+     "titulo": "Arroz e feijão",
+     "texto": "com frango no almoço"
+    },
+    {
+     "icone": "banana",
+     "titulo": "Banana com aveia",
+     "texto": "no fim da tarde"
+    }
+   ],
+   "citacao": "\"O doce não sumiu. Mas virou *um pedaço*, não o pote inteiro.\""
+  },
+  {
+   "tipo": "texto",
+   "tag": "Em casa",
+   "titulo": "20 minutos de força *no lugar do sofá*.",
+   "texto": "Às 20h, antes do jantar, 3 vezes por semana na sala.",
+   "blocos": [
+    {
+     "icone": "agachamento",
+     "titulo": "Agachamento"
+    },
+    {
+     "icone": "afundo",
+     "titulo": "Afundo"
+    },
+    {
+     "icone": "flexão",
+     "titulo": "Flexão"
+    }
+   ]
+  },
+  {
+   "tipo": "resultado",
+   "tag": "12 semanas depois",
+   "titulo": "Noites em paz. *Menos 6 cm* de cintura.",
+   "valores": [
+    74,
+    73.6,
+    73.1,
+    72.7,
+    72.2,
+    71.9,
+    71.4,
+    71,
+    70.7,
+    70.3,
+    70.1,
+    69.8
+   ],
+   "cor": "verde",
+   "numeros": [
+    {
+     "valor": "−6 cm",
+     "rotulo": "de cintura"
+    },
+    {
+     "valor": "−4 kg",
+     "rotulo": "na balança"
+    },
+    {
+     "valor": "3x",
+     "rotulo": "treino na semana"
+    }
+   ],
+   "citacao": "\"Eu achava que era fraca. *Eu só estava com fome.*\""
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Você não é fraca. *O método é que te deixava com fome.*",
+   "texto": "O passo a passo que a Vanessa seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": [
+    "Como calcular **quanto comer**, sem passar fome",
+    "**Cardápios prontos** com comida de casa",
+    "**Treino de força em casa**, em 35 minutos",
+    "Um **plano de 30 dias**, um hábito por vez"
+   ]
+  }
+ ]
+}
