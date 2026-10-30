@@ -1,0 +1,27 @@
+{
+  "id": "2026-10-30-07h",
+  "personagem": "Luciana, 37 anos, representante comercial",
+  "angulo": "viaja a trabalho e come em restaurante e posto de estrada",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu almoço *num lugar diferente* todo dia.\"", "texto": "A Luciana roda a semana visitando clientes. A dieta nunca passava de quarta.",
+     "adesivos": ["Coxinha de posto", "Buffet à vontade", "Refri no almoço", "Bolacha no carro", "Janta no hotel", "Pular o café"], "arremate": "...toda semana.", "rodape": "A história da Luciana"},
+    {"tipo": "tabela", "tag": "Um dia de estrada", "titulo": "Ela achava que comia pouco. *O dia somava muito.*", "texto": "Anotou tudo num dia de visitas entre 3 cidades:",
+     "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+     "linhas": [["Pão de queijo e café", "380", "8 g"], ["Coxinha no posto", "330", "10 g"], ["Buffet + refri", "1.150", "28 g"], ["Bolacha no carro", "440", "6 g"]],
+     "total": ["No dia", "2.300", "52 g"]},
+    {"tipo": "grafico", "tag": "Não era falta de força", "titulo": "Era rotina *sem plano nenhum*.", "texto": "Sem saber onde ia comer, ela comia o que aparecia pela frente.",
+     "valores": [3, 8, 2, 7, 3, 9, 2, 8, 4], "cor": "coral", "legenda_grafico": "Fome no dia", "selo_grafico": "no improviso", "inicio": "7h", "fim": "22h",
+     "blocos": [{"titulo": "Pular o café,", "texto": "chegar no almoço morrendo de fome."}, {"titulo": "Pouca proteína,", "texto": "beliscar no carro a tarde inteira."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela aprendeu a *montar o prato* em qualquer lugar.", "texto": "Uma regra simples pro buffet e uma bolsa térmica no carro.",
+     "blocos": [{"icone": "drumstick", "titulo": "Carne primeiro", "texto": "meio prato de salada"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "uma colher de cada"}, {"icone": "egg", "titulo": "Ovos cozidos", "texto": "no lugar da coxinha"}],
+     "citacao": "\"Parei de depender *do cardápio do posto*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de força *no quarto do hotel*.", "texto": "Sem equipamento, antes do café, 3 vezes por semana.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "flexão", "titulo": "Flexão na cama"}, {"icone": "prancha", "titulo": "Prancha"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "A mesma estrada. *Menos 6 cm* de cintura.",
+     "valores": [84, 83.6, 83.1, 82.7, 82.3, 81.9, 81.5, 81.1, 80.8, 80.5, 80.2, 80], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "coxinhas de posto"}],
+     "citacao": "\"Não mudei de emprego. *Mudei o jeito de comer nele.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava um plano pra sua rotina.*", "texto": "O passo a passo que a Luciana seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas no domingo", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
