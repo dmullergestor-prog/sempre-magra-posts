@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-31-07h",
+ "personagem": "Débora, 44 anos, motorista de aplicativo",
+ "angulo": "começou e parou 10 vezes; desta vez, um hábito por semana",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Eu já comecei a dieta umas *50 segundas*.\"", "texto": "A Débora começava com tudo. E na quarta já tinha desistido.",
+   "adesivos": ["Cortar todo o pão", "Treino de 2 horas", "Só salada", "Zero doce", "Shake no almoço", "Tudo de uma vez"], "arremate": "...toda segunda.", "rodape": "A história da Débora"},
+  {"tipo": "tabela", "tag": "Uma semana comum", "titulo": "O plano dela durava *menos de 3 dias*.", "texto": "Era sempre o mesmo roteiro:",
+   "cabecalho": ["Dia", "O que acontecia", "Ânimo"],
+   "linhas": [["Segunda", "Muda tudo de vez", "100%"], ["Terça", "Fome no carro", "60%"], ["Quarta", "Lanche na estrada", "20%"], ["Quinta", "\"Segunda eu volto\"", "0%"]],
+   "total": ["Em 2 anos", "10 recomeços", "0 resultado"]},
+  {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era preguiça. Era *mudança demais de uma vez*.", "texto": "Ninguém aguenta trocar a vida inteira numa segunda-feira.",
+   "valores": [10, 6, 2, 0, 10, 5, 1, 0, 10], "cor": "coral", "legenda_grafico": "Ânimo na semana", "selo_grafico": "tudo ou nada", "inicio": "seg", "fim": "seg",
+   "blocos": [{"titulo": "Regra demais,", "texto": "cansaço na terça."}, {"titulo": "Um deslize,", "texto": "e jogava tudo fora."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Desta vez, *um hábito por semana*.", "texto": "Só passava pro próximo quando o anterior já era automático.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Semana 1", "texto": "ovos no café da manhã"}, {"icone": "rice", "titulo": "Semana 2", "texto": "marmita de arroz e feijão"}, {"icone": "banana", "titulo": "Semana 3", "texto": "banana no porta-luvas"}],
+   "citacao": "\"Pela primeira vez eu *não precisei recomeçar* na segunda.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Começou com *10 minutos* de força.", "texto": "Na semana 4, em casa antes de sair. Depois foi pra 30 minutos.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Zero recomeços. *Menos 6 cm* de cintura.",
+   "valores": [86, 85.7, 85.2, 84.8, 84.3, 83.9, 83.4, 83, 82.6, 82.2, 81.8, 81.5], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "12", "rotulo": "semanas seguidas"}],
+   "citacao": "\"Eu não era fraca. *Eu só tentava mudar tudo de uma vez.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou 10 vezes. *O método é que falhou.*", "texto": "O passo a passo que a Débora seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Um **plano de 30 dias**, um hábito por vez", "Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas", "**Treino de força em casa**, em 35 minutos"]}
+ ]
+}
