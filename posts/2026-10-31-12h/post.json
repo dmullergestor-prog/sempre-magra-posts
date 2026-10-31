@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-31-12h",
+ "personagem": "Jaqueline, 40 anos, merendeira escolar",
+ "angulo": "orçamento apertado e família de 5: achava que emagrecer era coisa de rico",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Dieta é *coisa de rico*. Eu tenho 3 filhos.\"", "texto": "A Jaqueline achava que emagrecer não cabia no salário dela.",
+   "adesivos": ["Pão com margarina", "Miojo na janta", "Refri de 2 litros", "Bolacha recheada", "Restinho dos filhos", "Shake caro (1 mês)"], "arremate": "...todo mês.", "rodape": "A história da Jaqueline"},
+  {"tipo": "tabela", "tag": "O mercado do mês", "titulo": "O dinheiro ia pro que *não matava a fome*.", "texto": "Ela somou o que entrava no carrinho todo mês:",
+   "cabecalho": ["Item", "Por mês", "Sustenta?"],
+   "linhas": [["Bolacha recheada", "R$ 96", "Não"], ["Refri de 2 litros", "R$ 88", "Não"], ["Miojo e salgadinho", "R$ 70", "Não"], ["Shake \"detox\"", "R$ 149", "Não"]],
+   "total": ["No mês", "R$ 403", "Fome às 16h"]},
+  {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era falta de dinheiro. Era *dinheiro no lugar errado*.", "texto": "Comida barata e sem proteína some em uma hora. E a fome volta.",
+   "valores": [3, 8, 2, 7, 1, 8, 2, 9, 1], "cor": "coral", "legenda_grafico": "Fome no dia", "selo_grafico": "sempre com fome", "inicio": "6h", "fim": "22h",
+   "blocos": [{"titulo": "Pouca proteína,", "texto": "fome o dia todo."}, {"titulo": "Produto \"fit\" caro,", "texto": "e o resto faltava."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "O mesmo dinheiro, *outro carrinho*.", "texto": "Trocou bolacha e refri por proteína barata pra família toda.",
+   "blocos": [{"icone": "egg", "titulo": "Bandeja de ovos", "texto": "café e janta"}, {"icone": "liver", "titulo": "Fígado e frango", "texto": "as carnes mais em conta"}, {"icone": "beans", "titulo": "Feijão e arroz", "texto": "panela grande no domingo"}],
+   "citacao": "\"Gastei *menos no mercado* e as crianças pararam de pedir besteira.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Treino de força *com as crianças*, na sala.", "texto": "3 vezes por semana, 30 minutos, sem gastar nada.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mercado mais barato. *Menos 6 cm* de cintura.",
+   "valores": [84, 83.6, 83.1, 82.7, 82.2, 81.8, 81.4, 81, 80.6, 80.2, 79.8, 79.5], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "−R$ 150", "rotulo": "no mercado"}],
+   "citacao": "\"Eu não precisava de dinheiro. *Precisava saber onde gastar.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *O método é que cabia só no bolso dos outros.*", "texto": "O passo a passo que a Jaqueline seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["**Lista de compras do mês** que cabe no orçamento", "**Cardápios prontos** com arroz, feijão e comida de casa", "O que **não vale** comprar de suplemento", "**Treino de força em casa**, em 35 minutos"]}
+ ]
+}
