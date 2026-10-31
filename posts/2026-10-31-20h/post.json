@@ -1,0 +1,27 @@
+{
+ "id": "2026-10-31-20h",
+ "personagem": "Bianca, 30 anos, atendente de padaria",
+ "angulo": "pós-gestação, sem energia: bebê de 1 ano e corpo que não voltou",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Meu filho fez 1 ano. *Meu corpo não voltou.*\"", "texto": "A Bianca vivia cansada e achava que era assim mesmo depois do bebê.",
+   "adesivos": ["Só café até 15h", "Pão na chapa", "Resto da papinha", "Sono picado", "Chá \"seca barriga\"", "Pular o almoço"], "arremate": "...todo dia.", "rodape": "A história da Bianca"},
+  {"tipo": "tabela", "tag": "Um dia comum", "titulo": "Ela comia pouco, mas *nada que desse energia*.", "texto": "Anotou tudo o que comeu num dia de trabalho:",
+   "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+   "linhas": [["3 cafés com açúcar", "180", "0 g"], ["2 pães na chapa", "420", "10 g"], ["Resto da papinha", "120", "3 g"], ["Pizza às 22h", "840", "30 g"]],
+   "total": ["No dia", "1.560", "43 g"]},
+  {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era preguiça. Era *corpo sem combustível*.", "texto": "Pouca proteína e sono picado: energia no chão e fome à noite.",
+   "valores": [4, 7, 2, 6, 2, 5, 1, 8, 3], "cor": "coral", "legenda_grafico": "Energia no dia", "selo_grafico": "sempre exausta", "inicio": "5h", "fim": "23h",
+   "blocos": [{"titulo": "Dia sem comer direito,", "texto": "ataque à noite."}, {"titulo": "Chá \"milagroso\",", "texto": "só mais cansaço."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Primeiro ela *voltou a comer* de verdade.", "texto": "Proteína em toda refeição, até nos dias corridos com o bebê.",
+   "blocos": [{"icone": "egg", "titulo": "Ovos mexidos", "texto": "café em 3 minutos"}, {"icone": "drumstick", "titulo": "Frango e feijão", "texto": "marmita do domingo"}, {"icone": "oats", "titulo": "Aveia e banana", "texto": "lanche da tarde"}],
+   "citacao": "\"Parei de viver *à base de café* e o cansaço diminuiu.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de força *na soneca do bebê*.", "texto": "3 vezes por semana, no tapete da sala.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mais disposição. *Menos 6 cm* de cintura.",
+   "valores": [76, 75.7, 75.3, 75, 74.6, 74.2, 73.9, 73.5, 73.2, 72.8, 72.5, 72.2], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−3,8 kg", "rotulo": "na balança"}, {"valor": "3x", "rotulo": "treino por semana"}],
+   "citacao": "\"Eu não precisava de chá. *Precisava cuidar de mim também.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Ninguém te deu um plano pra essa fase.*", "texto": "O passo a passo que a Bianca seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas no domingo", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
