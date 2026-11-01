@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-01-21h",
+  "personagem": "Michele, 38 anos, operadora de telemarketing",
+  "angulo": "achava que precisava de academia cara pra emagrecer",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Paguei 2 academias e *quase não fui*.\"", "texto": "A Michele achava que emagrecer começava com matrícula cara.",
+     "adesivos": ["Plano anual", "Personal 1 mês", "Tênis de R$ 600", "Roupa de treino", "Taxa de matrícula", "Esteira parada"], "arremate": "...e nada mudou.", "rodape": "A história da Michele"},
+    {"tipo": "tabela", "tag": "A conta", "titulo": "Ela gastou muito pra *não sair do lugar*.", "texto": "Somou tudo o que pagou em 2 anos tentando começar:",
+     "cabecalho": ["O que pagou", "Valor", "Foi quantas vezes"],
+     "linhas": [["Academia 1 (anual)", "R$ 1.188", "9"], ["Academia 2 (mensal)", "R$ 357", "4"], ["Personal 1 mês", "R$ 480", "6"], ["Esteira usada", "R$ 900", "3"]],
+     "total": ["Em 2 anos", "R$ 2.925", "22"]},
+    {"tipo": "texto", "tag": "Não era preguiça", "titulo": "O problema *nunca foi ela*. Foi o método.", "texto": "Turno de 6h no fone, 2 ônibus por dia. A academia nunca cabia na rotina.",
+     "blocos": [{"titulo": "Longe de casa,", "texto": "cada treino custava 1h30 de deslocamento."}, {"titulo": "Treino genérico,", "texto": "sem plano, ela não sabia o que fazer lá."}, {"titulo": "Comida ignorada,", "texto": "ninguém falava do prato dela."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Primeiro ela arrumou *o prato*.", "texto": "Proteína em todas as refeições, comida de casa, sem cortar arroz e feijão.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo mexido", "texto": "no café, antes do turno"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com frango na marmita"}, {"icone": "banana", "titulo": "Banana e aveia", "texto": "no intervalo do fone"}],
+     "citacao": "\"Parei de chegar morta de fome em casa *depois do turno*.\""},
+    {"tipo": "texto", "tag": "Academia? A sala.", "titulo": "Força em casa, *30 minutos*, 3 vezes por semana.", "texto": "Uma garrafa de água e o próprio corpo. Mensalidade: zero.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão na parede"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "*Menos 6 cm* de cintura. Sem pagar academia.",
+     "valores": [81, 80.6, 80.1, 79.7, 79.2, 78.8, 78.3, 78, 77.6, 77.2, 76.9, 76.5], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "36", "rotulo": "treinos feitos"}],
+     "citacao": "\"Eu não precisava de academia. *Precisava de um plano que coubesse na minha vida.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Te venderam o método errado.*", "texto": "O passo a passo da Michele está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["**Treino de força em casa**, em 35 minutos", "Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
