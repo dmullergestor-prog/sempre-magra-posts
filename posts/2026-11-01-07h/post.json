@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-01-07h",
+ "personagem": "Karina, 34 anos, manicure",
+ "angulo": "gastava muito com produtos fit e suplementos",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Eu gastava *R$ 420 por mês* pra emagrecer.\"", "texto": "A Karina comprava tudo que prometia secar. A balança não saía do lugar.",
+   "adesivos": ["Shake no almoço", "Barrinha \"fit\"", "Termogênico", "Chá seca barriga", "Pão \"zero\"", "Whey sem treino"], "arremate": "...todo mês.", "rodape": "A história da Karina"},
+  {"tipo": "tabela", "tag": "A fatura do mês", "titulo": "Ela somou o que gastava com *produtos fit*.", "texto": "Tudo que ia pro carrinho num mês comum:",
+   "cabecalho": ["O que comprava", "Por mês", "Resultado"],
+   "linhas": [["Shake substituto", "R$ 160", "mais fome"], ["Termogênico", "R$ 120", "insônia"], ["Barrinhas \"fit\"", "R$ 90", "doce igual"], ["Chá seca barriga", "R$ 50", "nada"]],
+   "total": ["No mês", "R$ 420", "0 kg"]},
+  {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era falta de força. Era *promessa vazia*.", "texto": "Trocava comida por pó e pagava a conta à noite, com fome.",
+   "valores": [70, 68, 71, 69, 72, 70, 73, 71, 72], "cor": "coral", "legenda_grafico": "Peso no ano", "selo_grafico": "sanfona", "inicio": "jan", "fim": "out",
+   "blocos": [{"titulo": "Shake no almoço,", "texto": "ataque na geladeira à noite."}, {"titulo": "Barrinha \"fit\",", "texto": "é doce com rótulo bonito."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "O dinheiro foi pro *mercado*, não pro pó.", "texto": "Comida de verdade, com proteína em todas as refeições.",
+   "blocos": [{"icone": "egg", "titulo": "Ovos", "texto": "no café e no lanche"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com frango no almoço"}, {"icone": "banana", "titulo": "Banana e aveia", "texto": "no lugar da barrinha"}],
+   "citacao": "\"Pela primeira vez eu *comia e ficava satisfeita*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *entre uma cliente e outra*.", "texto": "30 minutos, 3 vezes por semana, na sala de casa.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "prancha", "titulo": "Prancha"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Menos gasto. *Menos 6 cm* de cintura.",
+   "valores": [72, 71.6, 71.1, 70.7, 70.3, 69.9, 69.4, 69, 68.6, 68.3, 67.9, 67.5], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "R$ 0", "rotulo": "em shake"}],
+   "citacao": "\"Eu pagava caro por promessa. *O que funcionou foi comida.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Te venderam o método errado.*", "texto": "O passo a passo da Karina está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["O que vale e o que **não vale** comprar", "**Lista de compras do mês** no orçamento", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
