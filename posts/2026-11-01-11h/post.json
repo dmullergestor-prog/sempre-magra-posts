@@ -1,0 +1,27 @@
+{
+ "id": "2026-11-01-11h",
+ "personagem": "Elaine, 36 anos, diarista",
+ "angulo": "mãe sem tempo que come o resto do prato dos filhos",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Eu jurava que *quase não comia*.\"", "texto": "A Elaine cuidava de 3 filhos e de 4 casas por semana. E comia o resto de todo mundo.",
+   "adesivos": ["Resto do prato", "Casquinha do pão", "Pizza fria", "Nuggets das crianças", "Bolacha recheada", "Jantar em pé"], "arremate": "...todo santo dia.", "rodape": "A história da Elaine"},
+  {"tipo": "tabela", "tag": "Os restinhos", "titulo": "Ela anotou só o que *beliscava das crianças*.", "texto": "Fora as refeições, num dia comum:",
+   "cabecalho": ["O restinho", "Kcal", "Proteína"],
+   "linhas": [["Meio pão com manteiga", "190", "4 g"], ["Sobra de macarrão", "260", "7 g"], ["4 nuggets", "200", "9 g"], ["5 bolachas recheadas", "240", "2 g"]],
+   "total": ["Sem perceber", "890", "22 g"]},
+  {"tipo": "grafico", "tag": "O ciclo", "titulo": "Não era gula. Era *ela sempre por último*.", "texto": "Servia todo mundo, comia em pé e chegava ao jantar morrendo de fome.",
+   "valores": [3, 2, 6, 3, 7, 4, 8, 5, 9], "cor": "coral", "legenda_grafico": "Fome no dia", "selo_grafico": "sem pausa", "inicio": "6h", "fim": "22h",
+   "blocos": [{"titulo": "Sem prato dela,", "texto": "o cérebro não registra a refeição."}, {"titulo": "Pouca proteína,", "texto": "fome de novo em 1 hora."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *montar o próprio prato*.", "texto": "Sentada, junto com as crianças. E o resto ia pra marmita do dia seguinte.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Ovo", "texto": "no café, antes de sair"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com carne ou frango"}, {"icone": "banana", "titulo": "Banana", "texto": "no lugar da bolacha"}],
+   "citacao": "\"Comer sentada, no meu prato, mudou *mais do que qualquer dieta*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de força, *com as crianças em volta*.", "texto": "3 vezes por semana, no quintal, depois do banho delas.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem restinho. *Menos 6 cm* de cintura.",
+   "valores": [78, 77.6, 77.1, 76.7, 76.2, 75.8, 75.4, 75, 74.6, 74.3, 73.9, 73.5], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "1 prato", "rotulo": "só dela"}],
+   "citacao": "\"Eu cuidava de todo mundo. *Agora eu entro na conta.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Só nunca teve um plano pra você.*", "texto": "O passo a passo da Elaine está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Marmitas** pra semana em 2 horas", "**Treino de força em casa**, em 35 minutos"]}
+ ]
+}
