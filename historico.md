@@ -20,3 +20,4 @@
 | 31/10/2026 20h | posts/2026-10-31-20h | Bianca, 30, atendente de padaria | pós-gestação, sem energia (bebê de 1 ano) | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
 | 01/11/2026 07h | posts/2026-11-01-07h | Karina, 34, manicure | gastava R$ 420/mês com produtos fit e suplementos | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
 | 01/11/2026 11h | posts/2026-11-01-11h | Elaine, 36, diarista | mãe de 3 que comia o resto do prato dos filhos | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
+| 01/11/2026 21h | posts/2026-11-01-21h | Michele, 38, operadora de telemarketing | achava que precisava de academia cara (pagou 2 academias, personal e esteira) | gerado, não publicado: conta desconectada | ID 17841439014574105 não aparece no conector instagram do Windsor |
