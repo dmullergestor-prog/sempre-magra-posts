@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-02-07h",
+  "personagem": "Marta, 45 anos, secretária escolar",
+  "angulo": "refém da balança: se pesava todo dia e desistia quando o número não descia",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"A balança *não mexia*. E eu desistia.\"", "texto": "A Marta se pesava todo dia. Toda semana, começava de novo.",
+     "adesivos": ["Pesar em jejum", "Pesar à noite", "Cortar a janta", "Só salada", "Culpa na segunda", "Recomeçar"], "arremate": "...toda semana.", "rodape": "A história da Marta"},
+    {"tipo": "tabela", "tag": "Uma semana dela", "titulo": "O número *subia e descia*. O humor também.", "texto": "Ela anotou a balança de uma semana inteira:",
+     "cabecalho": ["Dia", "Balança", "O que ela fez"],
+     "linhas": [["Segunda", "78,4 kg", "Começou a dieta"], ["Quarta", "77,6 kg", "Ficou feliz"], ["Sexta", "78,6 kg", "Chorou no banho"], ["Domingo", "79,1 kg", "Desistiu"]],
+     "total": ["Na semana", "+0,7 kg", "De novo do zero"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "O peso *oscila todo dia*. Isso é normal.", "texto": "Água, sal, intestino e ciclo mudam a balança até 2 kg, sem ganhar gordura.",
+     "valores": [5, 7, 4, 6, 8, 5, 7, 4, 6], "cor": "coral", "legenda_grafico": "Balança no dia a dia", "selo_grafico": "sobe e desce", "inicio": "Seg", "fim": "Dom",
+     "blocos": [{"titulo": "Um dia ruim na balança", "texto": "não apaga uma semana boa."}, {"titulo": "Desistir no meio", "texto": "é o que trava o resultado."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou a balança *pelo prato*.", "texto": "Proteína em todas as refeições, comida de casa e pesagem só 1 vez por semana.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo no café", "texto": "antes de abrir a secretaria"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "com frango, sem cortar a janta"}, {"icone": "oats", "titulo": "Aveia e banana", "texto": "no lanche da tarde"}],
+     "citacao": "\"Eu parei de brigar com o número e *comecei a cuidar do prato*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *30 minutos*, 3 vezes por semana.", "texto": "E uma fita métrica na gaveta: cintura medida a cada 15 dias.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada com mochila"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "*Menos 6 cm* de cintura. Sem desistir no meio.",
+     "valores": [78.4, 78.1, 78.3, 77.6, 77.2, 77.4, 76.6, 76.2, 75.9, 75.6, 74.9, 74.4], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "12", "rotulo": "pesagens, não 84"}],
+     "citacao": "\"A balança emperrou 3 vezes. *Dessa vez eu não parei.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *O método é que te fazia desistir.*", "texto": "O passo a passo da Marta está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
