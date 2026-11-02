@@ -1,0 +1,183 @@
+{
+ "id": "2026-11-02-12h",
+ "personagem": "Gisele, 37 anos, auxiliar de logística",
+ "angulo": "dormia 5 horas por noite e vivia com fome e cansada; achava que era falta de força de vontade",
+ "slides": [
+  {
+   "tipo": "capa",
+   "titulo": "\"Eu dormia *5 horas* e culpava a minha fome.\"",
+   "texto": "A Gisele acordava às 4h pro turno. Cansada, comia tudo que via.",
+   "adesivos": [
+    "Café pra acordar",
+    "Termogênico",
+    "Celular até 1h",
+    "Doce às 15h",
+    "Pão na madrugada",
+    "Chá secante"
+   ],
+   "arremate": "...e nada mudava.",
+   "rodape": "A história da Gisele"
+  },
+  {
+   "tipo": "tabela",
+   "tag": "Um dia dela",
+   "titulo": "Quanto *menos dormia*, mais beliscava.",
+   "texto": "Um dia depois de dormir só 5 horas:",
+   "cabecalho": [
+    "Hora",
+    "O que comeu",
+    "Por quê"
+   ],
+   "linhas": [
+    [
+     "4h30",
+     "Pão e margarina",
+     "Pra acordar"
+    ],
+    [
+     "9h",
+     "3 cafés doces",
+     "Sono"
+    ],
+    [
+     "15h",
+     "Chocolate",
+     "Moleza"
+    ],
+    [
+     "22h",
+     "Bolacha no sofá",
+     "Relaxar"
+    ]
+   ],
+   "total": [
+    "No dia",
+    "18 g",
+    "de proteína"
+   ]
+  },
+  {
+   "tipo": "grafico",
+   "tag": "Não era culpa dela",
+   "titulo": "Pouco sono *aumenta a fome* no dia seguinte.",
+   "texto": "Cansado, o corpo pede energia rápida: açúcar e farinha.",
+   "valores": [
+    8,
+    6,
+    7,
+    4,
+    6,
+    3,
+    5,
+    2,
+    3
+   ],
+   "cor": "coral",
+   "legenda_grafico": "Disposição no dia",
+   "selo_grafico": "só ladeira",
+   "inicio": "4h",
+   "fim": "22h",
+   "blocos": [
+    {
+     "titulo": "Não era fraqueza,",
+     "texto": "era cansaço acumulado."
+    },
+    {
+     "titulo": "Termogênico e chá",
+     "texto": "só tiravam ainda mais o sono."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "A virada",
+   "titulo": "Primeiro ela arrumou *o sono*. Depois o prato.",
+   "texto": "Celular longe às 21h e proteína logo cedo, antes do turno.",
+   "blocos": [
+    {
+     "icone": "fried_egg",
+     "titulo": "Ovo mexido",
+     "texto": "no café das 4h30"
+    },
+    {
+     "icone": "beans",
+     "titulo": "Arroz e feijão",
+     "texto": "com carne na marmita"
+    },
+    {
+     "icone": "milk",
+     "titulo": "Leite com aveia",
+     "texto": "no lugar da bolacha"
+    }
+   ],
+   "citacao": "\"Dormindo 7 horas, *a fome das 15h simplesmente sumiu*.\""
+  },
+  {
+   "tipo": "texto",
+   "tag": "Sem academia",
+   "titulo": "Força em casa, *25 minutos*, depois do turno.",
+   "texto": "3 vezes por semana, na sala, antes do banho.",
+   "blocos": [
+    {
+     "icone": "agachamento",
+     "titulo": "Agachamento"
+    },
+    {
+     "icone": "afundo",
+     "titulo": "Afundo"
+    },
+    {
+     "icone": "flexão",
+     "titulo": "Flexão na parede"
+    }
+   ]
+  },
+  {
+   "tipo": "resultado",
+   "tag": "12 semanas depois",
+   "titulo": "*Menos 5 cm* de cintura e muito menos cansaço.",
+   "valores": [
+    74.8,
+    74.5,
+    74.6,
+    74,
+    73.6,
+    73.7,
+    73.1,
+    72.7,
+    72.4,
+    72.1,
+    71.6,
+    71.2
+   ],
+   "cor": "verde",
+   "numeros": [
+    {
+     "valor": "−5 cm",
+     "rotulo": "de cintura"
+    },
+    {
+     "valor": "−3,6 kg",
+     "rotulo": "na balança"
+    },
+    {
+     "valor": "+2 h",
+     "rotulo": "de sono por noite"
+    }
+   ],
+   "citacao": "\"Eu achava que faltava força de vontade. *Faltava era cama.*\""
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Você não é fraca. *Estava cansada e sem método.*",
+   "texto": "O passo a passo da Gisele está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": [
+    "Como calcular **quanto comer**, sem fome",
+    "**Cardápios prontos** com comida de casa",
+    "**Treino de força em casa**, em 35 minutos",
+    "Um **plano de 30 dias**, um hábito por vez"
+   ]
+  }
+ ],
+ "legenda": "..."
+}
