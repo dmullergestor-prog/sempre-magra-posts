@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-02-20h",
+  "personagem": "Rosana, 43 anos, cozinheira de restaurante",
+  "angulo": "projeto verão relâmpago todo novembro: dieta radical de 30 dias que nunca chegava inteira no Natal",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Todo novembro eu começava o *projeto verão*.\"", "texto": "A Rosana é cozinheira. Fazia dieta relâmpago todo ano, sempre com prazo de 30 dias.",
+     "adesivos": ["Dieta do shake", "Chá secante", "Low carb radical", "Jejum de 20h", "800 kcal por dia", "Cinta modeladora"], "arremate": "...e no Natal voltava tudo.", "rodape": "A história da Rosana"},
+    {"tipo": "tabela", "tag": "4 projetos verão", "titulo": "Todo novembro uma dieta nova. *Todo janeiro, de volta.*", "texto": "O que ela tentou nos últimos 4 anos:",
+     "cabecalho": ["Ano", "O que fez", "Em janeiro"],
+     "linhas": [["2022", "Só shake", "+2 kg"], ["2023", "Low carb radical", "+3 kg"], ["2024", "Chá e 800 kcal", "+2 kg"], ["2025", "Jejum de 20h", "+2 kg"]],
+     "total": ["Em 4 anos", "4 dietas", "+9 kg"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "Dieta de 30 dias *não chega inteira no Natal*.", "texto": "Corte radical dá fome radical. E a ceia cobrava a conta.",
+     "valores": [80, 78.5, 77, 76, 76.5, 78, 80, 81.5, 82], "cor": "coral", "legenda_grafico": "Peso de novembro a janeiro", "selo_grafico": "sanfona", "inicio": "Nov", "fim": "Jan",
+     "blocos": [{"titulo": "Comer quase nada,", "texto": "o corpo reage com fome."}, {"titulo": "Prazo curto,", "texto": "nenhum hábito fica."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Desta vez, *sem data pra acabar*.", "texto": "Antes do serviço, ela monta o próprio prato na cozinha do restaurante.",
+     "blocos": [{"icone": "drumstick", "titulo": "Frango grelhado", "texto": "da própria cozinha"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "sem medo"}, {"icone": "carrot", "titulo": "Legumes", "texto": "metade do prato"}],
+     "citacao": "\"Parei de *beliscar provando panela* porque chegava alimentada.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *30 minutos*, antes do turno.", "texto": "3 manhãs por semana, na sala, antes de passar o dia em pé.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada com mochila"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "*Menos 6 cm* de cintura. E, pela 1ª vez, sem voltar.",
+     "valores": [82, 81.6, 81.3, 80.8, 80.5, 80.1, 79.6, 79.4, 78.9, 78.5, 78.1, 77.6], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,4 kg", "rotulo": "na balança"}, {"valor": "12", "rotulo": "semanas sem desistir"}],
+     "citacao": "\"Eu queria emagrecer pro verão. *Aprendi a emagrecer pra vida.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Falhou o prazo de 30 dias.*", "texto": "O passo a passo da Rosana está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Marmitas** pra semana em 2 horas", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
