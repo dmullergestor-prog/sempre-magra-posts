@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-03-07h",
+  "personagem": "Cristiane, 41 anos, cuidadora de idosos",
+  "angulo": "vivia de salada e contando caloria no app (900 kcal) e a balança não descia",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu comia *só salada* e não emagrecia.\"", "texto": "A Cristiane é cuidadora de idosos. Contava cada caloria no app e vivia com fome.",
+     "adesivos": ["900 kcal por dia", "Só salada", "App de calorias", "Chá secante", "Pular a janta", "Pão? Nunca"], "arremate": "...e a balança parada.", "rodape": "A história da Cristiane"},
+    {"tipo": "tabela", "tag": "Um dia comum", "titulo": "Ela comia *pouco demais*. E ainda se culpava.", "texto": "O que a Cristiane comia num dia de trabalho:",
+     "cabecalho": ["Refeição", "Kcal", "Proteína"],
+     "linhas": [["Café preto", "5", "0 g"], ["Salada com tomate", "120", "3 g"], ["Maçã", "80", "0 g"], ["Bolacha às 22h", "650", "6 g"]],
+     "total": ["No dia", "855", "9 g"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "Fome o dia todo *cobra a conta à noite*.", "texto": "Sem proteína, sobrava fome e faltava força pra cuidar dos idosos.",
+     "valores": [3, 4, 5, 6, 7, 8, 9, 9, 10], "cor": "coral", "legenda_grafico": "Fome ao longo do dia", "selo_grafico": "só aumenta", "inicio": "7h", "fim": "22h",
+     "blocos": [{"titulo": "Comer quase nada,", "texto": "o corpo pede em dobro."}, {"titulo": "Sem proteína,", "texto": "perde músculo, não gordura."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela voltou a *comer de verdade*.", "texto": "Prato completo no almoço e proteína em todas as refeições.",
+     "blocos": [{"icone": "fried_egg", "titulo": "2 ovos", "texto": "no café da manhã"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "sem culpa"}, {"icone": "drumstick", "titulo": "Frango", "texto": "no almoço e na janta"}],
+     "citacao": "\"Comendo mais, *parei de atacar a bolacha* de noite.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *25 minutos*, 3 vezes por semana.", "texto": "Antes do turno. E sobrou força pra levantar os idosos.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada com galão"}, {"icone": "prancha", "titulo": "Prancha"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Comendo mais: *menos 6 cm* de cintura.",
+     "valores": [79, 78.7, 78.2, 77.9, 77.4, 77, 76.6, 76.2, 75.9, 75.5, 75.1, 74.8], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,2 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "ataques à bolacha"}],
+     "citacao": "\"Eu achava que era falta de força. *Era falta de comida.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Falhou a dieta de fome.*", "texto": "O passo a passo da Cristiane está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
