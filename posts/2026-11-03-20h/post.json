@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-03-20h",
+  "personagem": "Sandra, 39 anos, frentista",
+  "angulo": "bebia as calorias (refri, suco de caixinha, café com açúcar) e achava que bebida não engordava",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu quase não como. *Só bebo* um refri.\"", "texto": "A Sandra é frentista. Passava o turno no posto achando que bebida não contava.",
+     "adesivos": ["Refri de 600 ml", "Suco de caixinha", "Café com açúcar", "Achocolatado", "Cerveja no sábado", "Chá secante"], "arremate": "...e nada de emagrecer.", "rodape": "A história da Sandra"},
+    {"tipo": "tabela", "tag": "Um turno comum", "titulo": "Ela não comia demais. *Bebia* demais.", "texto": "Só o que a Sandra bebia num dia de trabalho:",
+     "cabecalho": ["Bebida", "Kcal", "Açúcar"],
+     "linhas": [["5 cafés com açúcar", "250", "50 g"], ["Refri de 600 ml", "250", "63 g"], ["Suco de caixinha 1 L", "460", "100 g"], ["Achocolatado", "180", "28 g"]],
+     "total": ["No dia", "1.140", "241 g"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "Caloria líquida *não mata a fome*.", "texto": "O corpo não conta o que você bebe. A fome volta igual.",
+     "valores": [4, 9, 3, 8, 3, 9, 2, 8, 2], "cor": "coral", "legenda_grafico": "Energia no turno", "selo_grafico": "sobe e despenca", "inicio": "6h", "fim": "18h",
+     "blocos": [{"titulo": "Açúcar líquido,", "texto": "pico rápido e queda logo depois."}, {"titulo": "Sem proteína,", "texto": "fome e cansaço o dia todo."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou o copo *pelo prato*.", "texto": "Água na garrafinha e comida de verdade na marmita.",
+     "blocos": [{"icone": "egg", "titulo": "Ovos cozidos", "texto": "no lugar do achocolatado"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "com frango no almoço"}, {"icone": "banana", "titulo": "Banana", "texto": "no lugar do suco"}],
+     "citacao": "\"Larguei o refri e *parei de chegar em casa morrendo de fome*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *30 minutos*, 3 vezes por semana.", "texto": "Antes do turno, na sala, com a garrafa de água como peso.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem refri: *menos 7 cm* de cintura.",
+     "valores": [84, 83.6, 83.1, 82.7, 82.2, 81.8, 81.3, 80.9, 80.4, 79.9, 79.5, 79], "cor": "verde",
+     "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "refri no turno"}],
+     "citacao": "\"Eu achava que comia pouco. *O problema estava no copo.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Ninguém te contou do copo.*", "texto": "O passo a passo da Sandra está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Marmitas** pra semana em 2 horas", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
