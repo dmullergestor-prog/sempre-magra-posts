@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-04-11h",
+  "personagem": "Larissa, 33 anos, atendente de lotérica",
+  "angulo": "tudo ou nada: um doce e 'já que estraguei, vou comer tudo'",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Comi *um* brigadeiro. !Já que estraguei...!\"", "texto": "A Larissa vivia no tudo ou nada. Um deslize virava uma semana perdida.",
+     "adesivos": ["Dieta perfeita", "Zero doce", "Já que estraguei...", "Segunda eu começo", "Culpa no domingo", "Tudo ou nada"], "arremate": "...e o pacote inteiro.", "rodape": "A história da Larissa"},
+    {"tipo": "tabela", "tag": "Uma semana comum", "titulo": "Dois dias perfeitos. *Cinco* dias perdidos.", "texto": "Ela anotou como era uma semana de dieta:",
+     "cabecalho": ["Dia", "O plano", "O que rolou"],
+     "linhas": [["Seg e ter", "Só salada", "Fome o dia todo"], ["Quarta", "Zero doce", "1 brigadeiro"], ["Quarta à noite", "Compensar", "Pacote inteiro"], ["Qui a dom", "Segunda volto", "Liberou geral"]],
+     "total": ["Na semana", "2 dias", "5 perdidos"]},
+    {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "O problema não era o brigadeiro. Era a *regra impossível*.", "texto": "Dieta que não aceita erro quebra no primeiro deslize.",
+     "blocos": [{"titulo": "Regra rígida demais,", "texto": "fome e vontade acumuladas."}, {"titulo": "Um deslize vira culpa,", "texto": "e a culpa vira \"já que estraguei\"."}, {"titulo": "Recomeço na segunda,", "texto": "o ciclo gira de novo."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou o perfeito pelo *possível*.", "texto": "Proteína em toda refeição e o doce com hora marcada.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo no café", "texto": "sem fome às 10h"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com carne ou frango"}, {"icone": "banana", "titulo": "Doce pequeno", "texto": "depois do almoço"}],
+     "citacao": "\"Comer um doce *não estragava mais nada*. Era só um doce.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Treino de força em casa, *3 vezes por semana*.", "texto": "Se faltava um dia, ela seguia no próximo. Sem compensar.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "remada", "titulo": "Remada"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem dieta perfeita. *Menos 6 cm* de cintura.",
+     "valores": [74, 73.6, 73.1, 72.8, 72.2, 71.9, 71.5, 71.0, 70.7, 70.3, 70.1, 69.8], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "segundas recomeçadas"}],
+     "citacao": "\"Eu não precisava ser perfeita. *Precisava não desistir na quarta.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *A regra é que era impossível.*", "texto": "O passo a passo que a Larissa seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
