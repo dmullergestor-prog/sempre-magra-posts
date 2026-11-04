@@ -1,0 +1,170 @@
+{
+ "id": "2026-11-04-21h",
+ "personagem": "Sueli, 47 anos, porteira de condomínio",
+ "angulo": "fazia duas comidas: dieta separada pra ela e a comida da família; cansava e largava em 2 semanas",
+ "slides": [
+  {
+   "tipo": "capa",
+   "titulo": "\"Eu fazia *duas panelas*. Uma era !só minha!.\"",
+   "texto": "A Sueli cozinhava a comida da família e outra só pra dieta. Nunca passava de 2 semanas.",
+   "adesivos": [
+    "Frango sem sal",
+    "Salada sozinha",
+    "Panela da dieta",
+    "Comida separada",
+    "Inveja do prato",
+    "Cansei de novo"
+   ],
+   "arremate": "...e largava tudo.",
+   "rodape": "A história da Sueli"
+  },
+  {
+   "tipo": "tabela",
+   "tag": "Toda dieta igual",
+   "titulo": "Toda dieta morria na *2ª semana*.",
+   "texto": "Como terminava cada tentativa:",
+   "cabecalho": [
+    "Dieta",
+    "Durou",
+    "Motivo"
+   ],
+   "linhas": [
+    [
+     "Frango e salada (cozinhar 2x)",
+     "12 dias",
+     "Cansou"
+    ],
+    [
+     "Shake no jantar",
+     "9 dias",
+     "Fome"
+    ],
+    [
+     "Low carb",
+     "14 dias",
+     "Família"
+    ],
+    [
+     "Sopa da semana",
+     "6 dias",
+     "Arroz"
+    ]
+   ],
+   "total": [
+    "Em 3 anos",
+    "11 dietas",
+    "−0 kg"
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "Não era culpa dela",
+   "titulo": "Não faltava força de vontade. Faltava um *método que cabe na casa*.",
+   "texto": "Dieta que exige comida separada já nasce com prazo de validade.",
+   "blocos": [
+    {
+     "titulo": "Cozinhar duas vezes,",
+     "texto": "depois de 12 horas na portaria."
+    },
+    {
+     "titulo": "Comer diferente da família,",
+     "texto": "sozinha e com vontade do prato deles."
+    },
+    {
+     "titulo": "Cansaço acumulado,",
+     "texto": "e a desistência vinha na 2ª semana."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "A virada",
+   "titulo": "Uma panela só. *O prato dela é que mudou.*",
+   "texto": "A mesma comida da família, com mais proteína e legume no prato.",
+   "blocos": [
+    {
+     "icone": "rice",
+     "titulo": "Arroz e feijão",
+     "texto": "na medida certa"
+    },
+    {
+     "icone": "drumstick",
+     "titulo": "Frango ou carne",
+     "texto": "porção caprichada"
+    },
+    {
+     "icone": "cabbage",
+     "titulo": "Legumes",
+     "texto": "metade do prato"
+    }
+   ],
+   "citacao": "\"Pela primeira vez eu *comia junto com a minha família*.\""
+  },
+  {
+   "tipo": "texto",
+   "tag": "Sem academia",
+   "titulo": "Treino de força em casa, *antes do turno*.",
+   "texto": "25 minutos, 3 vezes por semana, na sala de casa.",
+   "blocos": [
+    {
+     "icone": "agachamento",
+     "titulo": "Agachamento"
+    },
+    {
+     "icone": "ponte",
+     "titulo": "Ponte"
+    },
+    {
+     "icone": "remada",
+     "titulo": "Remada"
+    }
+   ]
+  },
+  {
+   "tipo": "resultado",
+   "tag": "12 semanas depois",
+   "titulo": "Uma panela só. *Menos 7 cm* de cintura.",
+   "valores": [
+    79,
+    78.6,
+    78.1,
+    77.7,
+    77.2,
+    76.8,
+    76.3,
+    75.9,
+    75.4,
+    75.0,
+    74.5,
+    74.0
+   ],
+   "cor": "verde",
+   "numeros": [
+    {
+     "valor": "−7 cm",
+     "rotulo": "de cintura"
+    },
+    {
+     "valor": "−5 kg",
+     "rotulo": "na balança"
+    },
+    {
+     "valor": "1",
+     "rotulo": "panela no fogão"
+    }
+   ],
+   "citacao": "\"Eu achava que dieta era comer separado. *Era só montar melhor o prato.*\""
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Você não falhou. *O método é que não cabia na sua casa.*",
+   "texto": "O passo a passo que a Sueli seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": [
+    "**Cardápios prontos** com arroz, feijão e comida de casa",
+    "Como calcular **quanto comer**, sem passar fome",
+    "**Treino de força em casa**, em 35 minutos",
+    "**Lista de compras do mês** que cabe no orçamento"
+   ]
+  }
+ ]
+}
