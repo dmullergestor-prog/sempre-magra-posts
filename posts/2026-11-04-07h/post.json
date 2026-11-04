@@ -1,0 +1,28 @@
+{
+  "id": "2026-11-04-07h",
+  "personagem": "Adriana, 35 anos, operadora de máquina em fábrica",
+  "angulo": "comia em 5 minutos, correndo e no celular: repetia o prato e beliscava logo depois",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu almoço em *5 minutos* e já tô com fome.\"", "texto": "A Adriana trabalha em fábrica. Comia correndo, olhando o celular, e repetia o prato.",
+     "adesivos": ["Prato em 5 min", "Comer no celular", "Repetir o prato", "Doce pós-almoço", "Shake no jantar", "Dieta da sopa"], "arremate": "...e a fome nunca passava.", "rodape": "A história da Adriana"},
+    {"tipo": "tabela", "tag": "Um almoço comum", "titulo": "Ela não comia pouco. Comia *rápido demais*.", "texto": "O que a Adriana comia no intervalo de 30 minutos:",
+     "cabecalho": ["O que comeu", "Kcal", "Tempo"],
+     "linhas": [["Prato cheio de massa", "650", "4 min"], ["Repeteco", "350", "2 min"], ["Pudim do refeitório", "280", "1 min"], ["Bolacha às 15h", "300", "3 min"]],
+     "total": ["No almoço e lanche", "1.580", "10 min"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "A saciedade leva *uns 20 minutos* pra chegar.", "texto": "Comendo em 5, o prato acabava antes do corpo avisar.",
+     "valores": [8, 9, 9, 7, 3, 2, 4, 8, 9], "cor": "coral", "legenda_grafico": "Fome no turno", "selo_grafico": "nunca passava", "inicio": "11h", "fim": "16h",
+     "blocos": [{"titulo": "Comer correndo,", "texto": "sem perceber o quanto."}, {"titulo": "Pouca proteína,", "texto": "fome de novo logo depois."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *começar pela proteína*.", "texto": "Celular no bolso e o prato montado em ordem, sem pressa.",
+     "blocos": [{"icone": "drumstick", "titulo": "Frango ou ovo", "texto": "primeiro no prato"}, {"icone": "beans", "titulo": "Feijão e salada", "texto": "antes do arroz"}, {"icone": "banana", "titulo": "Banana", "texto": "no lugar do pudim"}],
+     "citacao": "\"Sem celular na mão, *eu percebi que já estava satisfeita*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *30 minutos*, 3 vezes por semana.", "texto": "Depois do turno, na sala, antes do banho.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "prancha", "titulo": "Prancha"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem pressa no prato: *menos 6 cm* de cintura.",
+     "valores": [79, 78.6, 78.2, 77.8, 77.3, 76.9, 76.5, 76.1, 75.6, 75.2, 74.8, 74.5], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "repeteco"}],
+     "citacao": "\"Eu não precisava comer menos. *Precisava comer devagar.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Ninguém te ensinou a comer.*", "texto": "O passo a passo da Adriana está no guia **Shape no Bolso**, por R$ 28,99.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 min", "Um **plano de 30 dias**, um hábito por vez"]}
+  ],
+  "legenda": "..."
+}
