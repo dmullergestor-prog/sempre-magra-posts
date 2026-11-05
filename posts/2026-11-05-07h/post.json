@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-05-07h",
+  "personagem": "Tânia, 42 anos, agente comunitária de saúde",
+  "angulo": "comia 'saudável' à vontade (granola, castanha, pasta de amendoim, tapioca) e não entendia por que não emagrecia",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu só como *saudável*. Por que !não emagreço!?\"", "texto": "A Tânia trocou tudo por comida fit. A balança não saiu do lugar em 2 anos.",
+     "adesivos": ["Granola no pote", "Castanha à vontade", "Pasta de amendoim", "Tapioca 2x ao dia", "Mel no lugar do açúcar", "Azeite sem medida"], "arremate": "...e nada mudava.", "rodape": "A história da Tânia"},
+    {"tipo": "tabela", "tag": "Só os lanches", "titulo": "Era tudo saudável. Mas era *muito*.", "texto": "Ela anotou só os lanches \"fit\" de um dia comum:",
+     "cabecalho": ["Lanche", "Kcal", "Proteína"],
+     "linhas": [["Granola com mel (pote)", "420", "8 g"], ["Pasta de amendoim (3 colh.)", "270", "11 g"], ["Punhado de castanhas", "320", "7 g"], ["2 tapiocas com coco", "480", "4 g"]],
+     "total": ["Só nos lanches", "1.490", "30 g"]},
+    {"tipo": "grafico", "tag": "O porquê", "titulo": "Não era falta de esforço. Era *caloria escondida*.", "texto": "Muita energia em pouco volume, e quase nada de proteína.",
+     "valores": [3, 8, 4, 9, 3, 8, 4, 9, 5], "cor": "coral", "legenda_grafico": "Fome ao longo do dia", "selo_grafico": "sempre beliscando", "inicio": "7h", "fim": "22h",
+     "blocos": [{"titulo": "Saudável não é sem caloria:", "texto": "um punhado de castanha passa de um prato de arroz."}, {"titulo": "Pouca proteína,", "texto": "a fome voltava em uma hora."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela trocou o *lanche de pote* por comida de verdade.", "texto": "Proteína em toda refeição e o fit na medida, não à vontade.",
+     "blocos": [{"icone": "egg", "titulo": "2 ovos no café", "texto": "no lugar da granola"}, {"icone": "drumstick", "titulo": "Frango ou carne", "texto": "com arroz e feijão"}, {"icone": "peanut", "titulo": "1 colher medida", "texto": "de pasta, com banana"}],
+     "citacao": "\"Eu comia mais *comida* e beliscava bem menos.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "30 minutos de força, *3 vezes por semana*.", "texto": "Na sala de casa, depois das visitas do dia.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "remada", "titulo": "Remada com mochila"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Menos beliscos. *Menos 6 cm* de cintura.",
+     "valores": [84, 83.6, 83.1, 82.5, 82.1, 81.6, 81.2, 80.7, 80.2, 79.8, 79.4, 79], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "3x", "rotulo": "treino por semana"}],
+     "citacao": "\"Eu comia certo. *Só não sabia quanto.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava saber quanto comer.*", "texto": "O passo a passo da Tânia está no guia **Shape no Bolso**, por R$ 28,99 em PDF.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "**Lista de compras do mês** no orçamento"]}
+  ]
+}
