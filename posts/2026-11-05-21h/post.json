@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-05-21h",
+  "personagem": "Regina, 44 anos, carteira",
+  "angulo": "andava 12 km por dia entregando cartas e não emagrecia: vivia de pão, café com açúcar e biscoito, quase sem proteína",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu ando *12 km* por dia. Por que !não emagreço!?\"", "texto": "A Regina é carteira há 15 anos. Caminhar nunca foi o problema.",
+     "adesivos": ["Pão na chapa", "Café com açúcar", "Biscoito na bolsa", "Pão de queijo", "Miojo na janta", "Zero proteína"], "arremate": "...todo dia.", "rodape": "A história da Regina"},
+    {"tipo": "tabela", "tag": "Um dia de rua", "titulo": "Quase tudo que ela comia *era pão*.", "texto": "Ela anotou um dia comum de entrega:",
+     "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+     "linhas": [["Pão na chapa + café", "380", "8 g"], ["Pacote de biscoito", "450", "6 g"], ["2 pães de queijo", "300", "6 g"], ["Miojo na janta", "380", "8 g"]],
+     "total": ["No dia", "1.510", "28 g"]},
+    {"tipo": "grafico", "tag": "O porquê", "titulo": "Não era o corpo dela. Era *o prato*.", "texto": "Com tão pouca proteína, a fome voltava a cada duas horas.",
+     "valores": [3, 8, 2, 7, 3, 8, 2, 9, 3], "cor": "coral", "legenda_grafico": "Fome no dia", "selo_grafico": "sempre com fome", "inicio": "7h", "fim": "22h",
+     "blocos": [{"titulo": "Só caminhar", "texto": "não segura músculo sem proteína no prato."}, {"titulo": "Pão o dia todo:", "texto": "sacia pouco e a fome volta rápido."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela colocou *proteína* em toda refeição.", "texto": "Sem cortar o pão. Só deixou de ser o prato inteiro.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Pão com 2 ovos", "texto": "antes de sair"}, {"icone": "beans", "titulo": "Arroz, feijão e frango", "texto": "na marmita"}, {"icone": "milk", "titulo": "Iogurte e banana", "texto": "na bolsa"}],
+     "citacao": "\"Pela 1ª vez eu terminei a rota *sem aquela fome de leão*.\""},
+    {"tipo": "texto", "tag": "Além da caminhada", "titulo": "20 minutos de *força*, 3 vezes por semana.", "texto": "Em casa, depois do turno. A caminhada ela já tinha.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Os mesmos 12 km. *Menos 7 cm* de cintura.",
+     "valores": [81, 80.6, 80.1, 79.7, 79.2, 78.8, 78.3, 77.9, 77.5, 77.1, 76.8, 76.5], "cor": "verde",
+     "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−4,5 kg", "rotulo": "na balança"}, {"valor": "3x", "rotulo": "mais proteína"}],
+     "citacao": "\"Eu achava que era o meu corpo. *Era o meu prato.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava o método certo.*", "texto": "O passo a passo que a Regina seguiu está no guia **Shape no Bolso**. R$ 28,99, pagamento único.",
+     "itens": ["Como calcular **quanto comer** sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 minutos", "**Marmitas** pra semana em 2 horas"]}
+  ]
+}
