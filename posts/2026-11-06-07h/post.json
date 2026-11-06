@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-06-07h",
+  "personagem": "Mônica, 34 anos, bancária",
+  "angulo": "não sabia cozinhar e vivia de delivery: gastava quase R$ 1.200/mês em app e achava que comida de casa era difícil",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu não sei nem *fritar um ovo*.\"", "texto": "A Mônica é bancária. Há 6 anos o jantar dela chega de moto.",
+     "adesivos": ["Hambúrguer no app", "Pizza de quinta", "Lanche da agência", "Refri de 2 litros", "Frete grátis", "Combo de sushi"], "arremate": "...toda noite.", "rodape": "A história da Mônica"},
+    {"tipo": "tabela", "tag": "Uma semana no app", "titulo": "O delivery levava o *dinheiro* e a cintura.", "texto": "Ela somou uma semana comum de pedidos:",
+     "cabecalho": ["Pedido", "Vezes", "Gasto"],
+     "linhas": [["Hambúrguer + batata", "2x", "R$ 96"], ["Pizza grande", "1x", "R$ 72"], ["Marmita fit do app", "2x", "R$ 64"], ["Lanche + refri", "2x", "R$ 58"]],
+     "total": ["Na semana", "7x", "R$ 290"]},
+    {"tipo": "texto", "tag": "Não era preguiça", "titulo": "Ninguém nunca *ensinou* ela a cozinhar o básico.", "texto": "E o app foi feito pra você pedir mais, não pra você emagrecer.",
+     "blocos": [{"titulo": "Porção de restaurante", "texto": "tem quase o dobro do que ela precisava."}, {"titulo": "Fome às 20h", "texto": "sem nada pronto, o app vence sempre."}, {"titulo": "Pouca proteína", "texto": "muito óleo e a fome voltava cedo."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela aprendeu *3 pratos* e parou por aí.", "texto": "Nada de receita difícil. Panela, forno e 1 hora no domingo.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo mexido", "texto": "com pão, em 5 minutos"}, {"icone": "drumstick", "titulo": "Frango no forno", "texto": "pra semana toda"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "congelados em potes"}],
+     "citacao": "\"Eu descobri que *sei cozinhar*. Só ninguém tinha me mostrado o simples.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de *força* na sala, 3x por semana.", "texto": "Enquanto o frango assava no forno.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Menos app, *menos 6 cm* de cintura.",
+     "valores": [79, 78.6, 78.1, 77.7, 77.3, 76.8, 76.4, 76, 75.7, 75.3, 75, 74.7], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "−R$ 700", "rotulo": "por mês no app"}],
+     "citacao": "\"Eu achava que não tinha jeito pra cozinha. *Faltava só o básico.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Faltava o método certo.*", "texto": "O passo a passo que a Mônica seguiu está no guia **Shape no Bolso**. R$ 28,99, pagamento único.",
+     "itens": ["**Marmitas** pra semana em 2 horas no domingo", "**Cardápios prontos** com comida de casa", "**Lista de compras do mês** que cabe no bolso", "**Treino de força em casa** em 35 minutos"]}
+  ]
+}
