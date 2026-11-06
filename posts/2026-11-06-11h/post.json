@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-06-11h",
+  "personagem": "Paula, 37 anos, auxiliar de contabilidade",
+  "angulo": "a copa do escritório: bolo de aniversário, café com bolacha e docinho da firma todo dia",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Em casa eu como *direitinho*. O problema é a firma.\"", "texto": "A Paula trabalha num escritório com 30 pessoas. Sempre tem alguém de aniversário.",
+     "adesivos": ["Bolo da firma", "Bolacha da copa", "Café com açúcar", "Pão de queijo", "Docinho de festa", "Salgado do RH"], "arremate": "...todo santo dia.", "rodape": "A história da Paula"},
+    {"tipo": "tabela", "tag": "Um dia na firma", "titulo": "Ela jurava que *não comia nada* no trabalho.", "texto": "Anotou tudo o que \"beliscou\" num dia comum:",
+     "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+     "linhas": [["Fatia de bolo", "380", "5 g"], ["5 bolachas da copa", "220", "3 g"], ["4 cafés com açúcar", "240", "0 g"], ["2 pães de queijo", "260", "6 g"]],
+     "total": ["Só na firma", "1.100", "14 g"]},
+    {"tipo": "texto", "tag": "Não era fraqueza", "titulo": "O ambiente decidia por ela. *Todo dia.*", "texto": "Ninguém resiste 8 horas a um doce a 3 metros da mesa.",
+     "blocos": [{"titulo": "Almoço fraco,", "texto": "pouca proteína e fome às 15h."}, {"titulo": "Doce à vista,", "texto": "a vontade aparece sem fome."}, {"titulo": "Recusar é chato,", "texto": "então ela comia pra não fazer desfeita."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *chegar na copa* sem fome.", "texto": "Almoço com proteína de verdade e lanche levado de casa.",
+     "blocos": [{"icone": "drumstick", "titulo": "Frango no almoço", "texto": "com arroz e feijão"}, {"icone": "egg", "titulo": "Ovo cozido", "texto": "lanche das 15h"}, {"icone": "banana", "titulo": "Banana e aveia", "texto": "no lugar da bolacha"}],
+     "citacao": "\"Agora eu como *uma fatia* no aniversário e volto pra mesa em paz.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "25 minutos de *força* em casa, 3x por semana.", "texto": "Antes do jantar, no tapete da sala.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mesma firma, mesmo bolo. *Menos 6 cm* de cintura.",
+     "valores": [74, 73.6, 73.2, 72.8, 72.5, 72.1, 71.7, 71.4, 71, 70.7, 70.3, 70], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "1 fatia", "rotulo": "no aniversário"}],
+     "citacao": "\"Eu achava que precisava de força de vontade. *Precisava era de almoço.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *O método é que não te preparou.*", "texto": "O passo a passo que a Paula seguiu está no guia **Shape no Bolso**. R$ 28,99, pagamento único.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Marmitas** pra semana em 2 horas no domingo", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 minutos"]}
+  ]
+}
