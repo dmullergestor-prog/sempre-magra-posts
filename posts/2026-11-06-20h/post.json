@@ -1,0 +1,27 @@
+{
+  "id": "2026-11-06-20h",
+  "personagem": "Viviane, 39 anos, auxiliar de dentista",
+  "angulo": "dieta relâmpago antes de cada evento (casamento, formatura, Natal) e o peso voltava depois",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu emagrecia pra *festa* e engordava *depois*.\"", "texto": "A Viviane fazia dieta relâmpago antes de todo casamento, formatura e Natal.",
+     "adesivos": ["Shake no jantar", "Chá \"detox\"", "Só salada", "800 kcal por dia", "Cinta modeladora", "Pular refeição"], "arremate": "...a cada evento.", "rodape": "A história da Viviane"},
+    {"tipo": "tabela", "tag": "Uma dieta por festa", "titulo": "Cada festa, uma dieta. E o peso sempre *voltou*.", "texto": "O que aconteceu antes e depois de cada evento:",
+     "cabecalho": ["Evento", "Perdeu", "Voltou"],
+     "linhas": [["Casamento da prima", "−4 kg", "+5 kg"], ["Formatura do filho", "−3 kg", "+4 kg"], ["Batizado do sobrinho", "−2 kg", "+3 kg"], ["Natal de 2025", "−3 kg", "+4 kg"]],
+     "total": ["Em 2 anos", "−12 kg", "+16 kg"]},
+    {"tipo": "grafico", "tag": "Não era culpa dela", "titulo": "Não era fraqueza. Era *dieta com data pra acabar*.", "texto": "Três semanas passando fome têm fim marcado. E o corpo cobra a conta.",
+     "valores": [70, 66, 71, 67, 72, 69, 73, 70, 74], "cor": "coral", "legenda_grafico": "Peso a cada evento", "selo_grafico": "sanfona", "inicio": "2024", "fim": "2026",
+     "blocos": [{"titulo": "Fome extrema,", "texto": "a vontade volta em dobro."}, {"titulo": "Pouca proteína,", "texto": "perde músculo, não só gordura."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela parou de fazer dieta *pra festa*. Fez pra vida.", "texto": "Comida de casa, proteína em toda refeição e nenhuma data pra acabar.",
+     "blocos": [{"icone": "egg", "titulo": "Ovo no café", "texto": "com pão ou cuscuz"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "todo dia no almoço"}, {"icone": "drumstick", "titulo": "Frango ou carne", "texto": "em toda refeição"}],
+     "citacao": "\"Pela primeira vez eu comi direito e *não fiquei contando os dias*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "30 minutos de força, *3 vezes por semana*.", "texto": "Na sala de casa, depois do consultório. Sem pressa pra festa nenhuma.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem dieta relâmpago. *Menos 6 cm* de cintura.",
+     "valores": [74, 73.6, 73.1, 72.7, 72.2, 71.8, 71.3, 70.9, 70.4, 70, 69.6, 69.2], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "dieta de véspera"}],
+     "citacao": "\"Agora a festa é só a festa. *O peso não volta no dia seguinte.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Falhou a dieta com prazo de validade.*", "texto": "O passo a passo que a Viviane seguiu está no guia **Shape no Bolso**.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
