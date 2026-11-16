@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-16-07h",
+  "personagem": "Elisa, 36 anos, tosadora em pet shop",
+  "angulo": "a família sabotava (\"só um pedacinho\", \"vai fazer desfeita?\") e ela cedia pra não brigar",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Só um *pedacinho*, vai fazer desfeita?\"", "texto": "A Elisa começava toda dieta na segunda. A família acabava com ela no domingo.",
+     "adesivos": ["Bolo da sogra", "\"Tá doente?\"", "Pudim da tia", "Repete o prato", "Churrasco de domingo", "\"Dieta é frescura\""], "arremate": "...todo fim de semana.", "rodape": "A história da Elisa"},
+    {"tipo": "tabela", "tag": "Um domingo comum", "titulo": "Ela comia pra *não brigar*. E nem tinha fome.", "texto": "O que a Elisa comeu só pra agradar num almoço de família:",
+     "cabecalho": ["O que ofereceram", "Kcal", "Fome?"],
+     "linhas": [["2º prato da sogra", "520", "Não"], ["Pudim da tia", "380", "Não"], ["Bolo do aniversário", "410", "Não"], ["Refri \"só um copo\"", "180", "Não"]],
+     "total": ["Só pra agradar", "1.490", "0 fome"]},
+    {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Não era fraqueza. Era *dieta que não cabia na família*.", "texto": "Prato separado, comida sem sal e regra demais: ninguém aguenta isso na mesa de domingo.",
+     "blocos": [{"titulo": "Dieta isolada,", "texto": "a família vê como desfeita."}, {"titulo": "Chegava com fome,", "texto": "e qualquer \"pedacinho\" virava três."}, {"titulo": "Proibido tudo,", "texto": "então era tudo ou nada."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a comer *a mesma comida* da família.", "texto": "Só mudou a ordem e a quantidade no prato. Sem prato separado.",
+     "blocos": [{"icone": "drumstick", "titulo": "Carne primeiro", "texto": "meio prato de proteína"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "sem medo, na medida"}, {"icone": "egg", "titulo": "Ovo no café", "texto": "pra não chegar faminta"}],
+     "citacao": "\"Agora eu como o almoço da sogra. *Só que uma vez, e sem culpa*.\""},
+    {"tipo": "texto", "tag": "Sem academia", "titulo": "30 minutos de força, *3 vezes por semana*.", "texto": "Na sala de casa, depois do pet shop. O marido até entrou junto.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem brigar com ninguém. *Menos 6 cm* de cintura.",
+     "valores": [78, 77.6, 77.1, 76.7, 76.2, 75.8, 75.4, 75, 74.5, 74.1, 73.7, 73.3], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4,7 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "prato separado"}],
+     "citacao": "\"Eu não precisei fugir da família. *Precisei de um plano que coubesse nela.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *Falhou a dieta que te isolava.*", "texto": "O passo a passo que a Elisa seguiu está no guia **Shape no Bolso**.",
+     "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com arroz, feijão e comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+  ]
+}
