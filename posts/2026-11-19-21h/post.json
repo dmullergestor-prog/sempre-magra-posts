@@ -1,0 +1,170 @@
+{
+ "id": "2026-11-19-21h",
+ "personagem": "Carla, 40 anos, camareira de hotel",
+ "angulo": "excesso de informação: seguia 15 perfis fitness, cada um dizia uma coisa, e ela mudava de dieta toda semana",
+ "slides": [
+  {
+   "tipo": "capa",
+   "titulo": "\"Eu sabia *tudo* de dieta. E não emagrecia.\"",
+   "texto": "A Carla seguia 15 perfis fitness. Cada semana, uma regra nova.",
+   "adesivos": [
+    "Corta o arroz",
+    "Ovo engorda",
+    "Só fruta à noite",
+    "Café sem nada",
+    "Proibido banana",
+    "Treino em jejum"
+   ],
+   "arremate": "...toda semana.",
+   "rodape": "A história da Carla"
+  },
+  {
+   "tipo": "tabela",
+   "tag": "Um mês no celular",
+   "titulo": "Quatro semanas, *quatro dietas* diferentes.",
+   "texto": "Cada perfil dizia uma coisa:",
+   "cabecalho": [
+    "A regra da semana",
+    "Durou",
+    "Peso"
+   ],
+   "linhas": [
+    [
+     "Zero carboidrato",
+     "4 dias",
+     "voltou"
+    ],
+    [
+     "Shake no jantar",
+     "3 dias",
+     "voltou"
+    ],
+    [
+     "Suco detox",
+     "2 dias",
+     "voltou"
+    ],
+    [
+     "Contar macro no app",
+     "5 dias",
+     "voltou"
+    ]
+   ],
+   "total": [
+    "No fim do mês",
+    "18 dias",
+    "+ culpa"
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "Não era culpa dela",
+   "titulo": "Não era preguiça. Era *informação demais e plano nenhum*.",
+   "texto": "Ninguém emagrece trocando de regra a cada 4 dias.",
+   "blocos": [
+    {
+     "titulo": "Regra nova toda semana,",
+     "texto": "o corpo nunca tinha tempo de responder."
+    },
+    {
+     "titulo": "Dica que se contradiz,",
+     "texto": "a cabeça vivia confusa e cansada."
+    },
+    {
+     "titulo": "Sem resultado rápido,",
+     "texto": "ela achava que o problema era ela."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "A virada",
+   "titulo": "Ela parou de seguir dica e *seguiu um plano só*.",
+   "texto": "Comida de casa, proteína em toda refeição, por 12 semanas.",
+   "blocos": [
+    {
+     "icone": "fried_egg",
+     "titulo": "Ovo no café",
+     "texto": "sim, ovo pode"
+    },
+    {
+     "icone": "rice",
+     "titulo": "Arroz e feijão",
+     "texto": "de volta ao prato"
+    },
+    {
+     "icone": "banana",
+     "titulo": "Banana",
+     "texto": "no lanche da tarde"
+    }
+   ],
+   "citacao": "\"Eu deixei de seguir 15 perfis. *Agora sigo um plano.*\""
+  },
+  {
+   "tipo": "texto",
+   "tag": "Sem academia",
+   "titulo": "30 minutos de força, *3 vezes por semana*.",
+   "texto": "No quarto de casa, depois do turno no hotel. Sempre o mesmo treino.",
+   "blocos": [
+    {
+     "icone": "agachamento",
+     "titulo": "Agachamento"
+    },
+    {
+     "icone": "afundo",
+     "titulo": "Afundo"
+    },
+    {
+     "icone": "flexão",
+     "titulo": "Flexão"
+    }
+   ]
+  },
+  {
+   "tipo": "resultado",
+   "tag": "12 semanas depois",
+   "titulo": "Um plano só, até o fim. *Menos 6 cm* de cintura.",
+   "valores": [
+    81,
+    80.6,
+    80.1,
+    79.7,
+    79.3,
+    78.8,
+    78.4,
+    78,
+    77.6,
+    77.2,
+    76.8,
+    76.4
+   ],
+   "cor": "verde",
+   "numeros": [
+    {
+     "valor": "−6 cm",
+     "rotulo": "de cintura"
+    },
+    {
+     "valor": "−4,6 kg",
+     "rotulo": "na balança"
+    },
+    {
+     "valor": "1",
+     "rotulo": "plano só"
+    }
+   ],
+   "citacao": "\"Eu não precisava saber mais. *Precisava parar de trocar de dieta.*\""
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Você não falhou. *Faltou um plano só pra seguir.*",
+   "texto": "O passo a passo que a Carla seguiu está no guia **Shape no Bolso**. R$ 28,99.",
+   "itens": [
+    "Como calcular **quanto comer**, sem passar fome",
+    "**Cardápios prontos** com arroz, feijão e comida de casa",
+    "**Treino de força em casa**, em 35 minutos",
+    "Um **plano de 30 dias**, um hábito de cada vez"
+   ]
+  }
+ ]
+}
