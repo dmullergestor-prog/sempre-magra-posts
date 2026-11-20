@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-20-07h",
+ "personagem": "Lívia, 37 anos, motorista de van escolar",
+ "angulo": "servia o prato do mesmo tamanho do prato do marido e achava que comia 'normal'",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Eu comia *igual ao meu marido*. Achava normal.\"", "texto": "A Lívia servia o mesmo prato que ele. Ele tem 1,85 m e carrega peso o dia todo.",
+   "adesivos": ["Prato cheio", "Repetia junto", "Pão com ele", "Sobremesa a dois", "Pizza meio a meio", "Cerveja no sábado"], "arremate": "...todo dia, igual.", "rodape": "A história da Lívia"},
+  {"tipo": "tabela", "tag": "Um jantar comum", "titulo": "Mesmo prato, *corpos diferentes*.", "texto": "O jantar dela era do tamanho do dele:",
+   "cabecalho": ["No prato", "Ela", "O que precisava"],
+   "linhas": [["Arroz", "5 colheres", "3 colheres"], ["Macarrão junto", "1 concha", "nada"], ["Frango", "1 filé", "1 filé"], ["Pão no fim", "2", "0"]],
+   "total": ["No jantar", "o dobro", "metade"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Não era falta de força. Era *porção de outra pessoa*.", "texto": "Ninguém nunca tinha ensinado a ela quanto ela precisava comer.",
+   "blocos": [{"titulo": "Corpo menor,", "texto": "gasta menos que o dele."}, {"titulo": "Prato igual,", "texto": "sobrava todo dia, sem ela perceber."}, {"titulo": "Dieta da fome,", "texto": "ela largava em 3 dias e voltava ao prato dele."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Mesma comida da família, *prato do tamanho dela*.", "texto": "Sem cozinhar separado. Só a medida mudou.",
+   "blocos": [{"icone": "drumstick", "titulo": "Proteína igual", "texto": "o filé continua"}, {"icone": "rice", "titulo": "Arroz e feijão", "texto": "na medida dela"}, {"icone": "cabbage", "titulo": "Metade de salada", "texto": "pra encher o prato"}],
+   "citacao": "\"Eu não cortei nada. *Só parei de comer a porção dele.*\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "25 minutos de força, *antes da primeira rota*.", "texto": "Na garagem, 3 vezes por semana, antes de buscar as crianças.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mesma mesa, outro prato. *Menos 7 cm* de cintura.",
+   "valores": [78, 77.6, 77.1, 76.7, 76.3, 75.8, 75.4, 75, 74.6, 74.1, 73.6, 73.2], "cor": "verde",
+   "numeros": [{"valor": "−7 cm", "rotulo": "de cintura"}, {"valor": "−4,8 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "comida separada"}],
+   "citacao": "\"Eu achava que precisava comer menos. *Precisava comer a minha parte.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Só estava comendo a medida errada.*", "texto": "O passo a passo que a Lívia seguiu está no guia **Shape no Bolso**. R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com arroz, feijão e comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito de cada vez"]}
+ ]
+}
