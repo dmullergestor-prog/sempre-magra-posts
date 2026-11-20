@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-20-12h",
+ "personagem": "Heloísa, 43 anos, inspetora de alunos",
+ "angulo": "achava que era genética: 'na minha família todo mundo é gordinha'",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Na minha família *todo mundo* é gordinha.\"", "texto": "A Heloísa achava que o peso vinha no sangue. Que não adiantava lutar.",
+   "adesivos": ["Pão com manteiga", "Refri no almoço", "Prato fundo", "Doce depois", "Sofá no domingo", "\"É de família\""], "arremate": "...igual à mãe e à vó.", "rodape": "A história da Heloísa"},
+  {"tipo": "tabela", "tag": "Herança de família", "titulo": "O que passava de mãe pra filha *não era o DNA*.", "texto": "Era a rotina da casa, repetida há três gerações:",
+   "cabecalho": ["Hábito", "Vó", "Heloísa"],
+   "linhas": [["Refri no almoço", "todo dia", "todo dia"], ["Pão no café", "3", "3"], ["Proteína no café", "nada", "nada"], ["Caminhada", "nunca", "nunca"]],
+   "total": ["Resultado", "igual", "igual"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "A genética pesa. Mas *a rotina pesa mais*.", "texto": "Família não divide só os genes. Divide a mesa, a geladeira e o sofá.",
+   "blocos": [{"titulo": "Genes", "texto": "mudam a facilidade, não decidem o destino."}, {"titulo": "Hábitos", "texto": "se aprendem em casa, e dá pra reaprender."}, {"titulo": "\"É de família\"", "texto": "virou desculpa pra nem tentar."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela mudou *o café da manhã* da casa.", "texto": "Um hábito por vez, sem banir nada da mesa da família.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Ovo no café", "texto": "no lugar do 2º pão"}, {"icone": "beans", "titulo": "Feijão sempre", "texto": "e frango no almoço"}, {"icone": "banana", "titulo": "Fruta", "texto": "no lugar do doce"}],
+   "citacao": "\"Eu não lutei contra a minha família. *Mudei o que tinha na mesa.*\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "30 minutos de força, *na sala de casa*.", "texto": "3 vezes por semana, depois do turno na escola.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "A primeira da família a *quebrar o ciclo*.",
+   "valores": [86, 85.6, 85.1, 84.6, 84.2, 83.7, 83.3, 82.8, 82.4, 81.9, 81.5, 81], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "refri no almoço"}],
+   "citacao": "\"Minha filha agora toma café com ovo. *O ciclo parou em mim.*\""},
+  {"tipo": "cta", "titulo": "Você não nasceu condenada. *Só herdou o método errado.*", "texto": "O passo a passo que a Heloísa seguiu está no guia **Shape no Bolso**. R$ 28,99.",
+   "itens": ["Um **plano de 30 dias**, um hábito de cada vez", "**Cardápios prontos** com arroz, feijão e comida de casa", "**Treino de força em casa**, em 35 minutos", "**Lista de compras do mês** que cabe no orçamento"]}
+ ]
+}
