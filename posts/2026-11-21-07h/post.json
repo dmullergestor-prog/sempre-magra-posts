@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-21-07h",
+ "personagem": "Rafaela, 35 anos, repositora de supermercado",
+ "angulo": "comia no sofá vendo série: o pacote inteiro ia embora no automático, toda noite",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Quando eu via, o *pacote* tinha acabado.\"", "texto": "A Rafaela comia bem de dia. O problema começava quando ligava a TV.",
+   "adesivos": ["Mais um episódio", "Pacote de bolacha", "Pipoca de micro", "Sorvete no pote", "Refri de 2 litros", "Comer no escuro"], "arremate": "...toda noite.", "rodape": "A história da Rafaela"},
+  {"tipo": "tabela", "tag": "Uma noite comum", "titulo": "Ela jurava que era *só um pouquinho*.", "texto": "Anotou o que comeu no sofá em uma noite de série:",
+   "cabecalho": ["No sofá", "Kcal", "Proteína"],
+   "linhas": [["1 pacote de bolacha", "680", "8 g"], ["Pipoca de micro", "420", "6 g"], ["3 copos de refri", "300", "0 g"], ["Pote de sorvete", "390", "5 g"]],
+   "total": ["Depois das 21h", "1.790", "19 g"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Não era falta de *força de vontade*.", "texto": "Era fome guardada do dia inteiro somada ao piloto automático da tela.",
+   "blocos": [{"titulo": "Jantar fraco", "texto": "pouca proteína deixava a fome pra depois."}, {"titulo": "Comer olhando a tela", "texto": "o cérebro nem registra quanto entrou."}, {"titulo": "O pacote aberto", "texto": "não tem fim: só acaba quando acaba."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Jantar de verdade e *fim do pacote* no sofá.", "texto": "Prato completo às 20h e um lanche servido no potinho.",
+   "blocos": [{"icone": "drumstick", "titulo": "Frango no jantar", "texto": "com arroz e feijão"}, {"icone": "milk", "titulo": "Iogurte natural", "texto": "no potinho, no sofá"}, {"icone": "banana", "titulo": "Banana e aveia", "texto": "no lugar do sorvete"}],
+   "citacao": "\"Eu ainda vejo minha série. Só que *agora eu sei o que comi*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *antes do episódio*.", "texto": "25 minutos na sala, 3 vezes por semana. Depois, série liberada.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "A mesma série. *Menos 6 cm* de cintura.",
+   "valores": [81, 80.6, 80.1, 79.7, 79.2, 78.8, 78.3, 77.9, 77.4, 77, 76.5, 76], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "pacotes no sofá"}],
+   "citacao": "\"Não precisei largar a TV. *Precisei parar de comer no automático.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Faltava um plano pra noite.*", "texto": "O passo a passo que a Rafaela seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
