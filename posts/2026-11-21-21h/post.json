@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-21-21h",
+ "personagem": "Neide, 47 anos, caixa de supermercado",
+ "angulo": "depois dos 45 achava que o metabolismo tinha travado e que comer cada vez menos era a única saída",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Depois dos 45, meu *metabolismo travou*.\"", "texto": "A Neide comia cada vez menos e a balança não saía do lugar.",
+   "adesivos": ["Só salada", "Pular o jantar", "Chá secante", "Caminhada só", "Bolacha de arroz", "Café pra enganar"], "arremate": "...e nada mudava.", "rodape": "A história da Neide"},
+  {"tipo": "tabela", "tag": "Um dia comum", "titulo": "Ela achava que comia *pouco demais* pra engordar.", "texto": "Anotou um dia inteiro de trabalho no caixa:",
+   "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+   "linhas": [["Café com açúcar e pão", "310", "8 g"], ["Salada sem nada", "90", "2 g"], ["Bolacha no intervalo", "280", "4 g"], ["Pão com margarina à noite", "360", "9 g"]],
+   "total": ["No dia", "1.040", "23 g"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "O metabolismo não travou. *O método travava.*", "texto": "Com pouca comida e quase nenhuma proteína, o corpo se defendia.",
+   "blocos": [{"titulo": "Perdia músculo:", "texto": "e músculo é o que mais gasta energia no corpo."}, {"titulo": "Vivia com fome:", "texto": "e beliscava doce sem perceber à noite."}, {"titulo": "Só caminhada:", "texto": "sem força, o corpo ficava mais mole, não mais leve."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *comer mais*, e melhor.", "texto": "Quatro refeições de verdade, com proteína em todas.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Ovos no café", "texto": "no lugar do pão puro"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com carne ou frango"}, {"icone": "milk", "titulo": "Iogurte e fruta", "texto": "no intervalo do caixa"}],
+   "citacao": "\"Eu comendo mais e *a cintura diminuindo*. Não acreditei.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *3 vezes por semana*.", "texto": "30 minutos na sala, com garrafa de água como peso.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Mais disposição no caixa. *Menos 6 cm* de cintura.",
+   "valores": [79, 78.6, 78.2, 77.7, 77.3, 76.8, 76.4, 75.9, 75.5, 75, 74.5, 74], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "4", "rotulo": "refeições por dia"}],
+   "citacao": "\"Não era a idade. *Eu só estava comendo errado.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *A idade não é sentença.*", "texto": "O passo a passo que a Neide seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
