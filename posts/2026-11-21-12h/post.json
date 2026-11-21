@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-21-12h",
+ "personagem": "Roberta, 41 anos, corretora de imóveis",
+ "angulo": "temporada de confraternizações: todo fim de ano ganhava 4 kg entre novembro e janeiro e recomeçava do zero",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Todo ano eu *começava janeiro* do zero.\"", "texto": "A Roberta ganhava uns 4 kg entre a primeira festa e o Réveillon.",
+   "adesivos": ["Amigo secreto", "Happy hour", "Panetone no café", "Churrasco da firma", "Sobra da ceia", "Dieta só em janeiro"], "arremate": "...todo fim de ano.", "rodape": "A história da Roberta"},
+  {"tipo": "tabela", "tag": "Novembro a janeiro", "titulo": "Ela fez as contas da *temporada de festas*.", "texto": "Anotou o fim de ano passado, semana por semana:",
+   "cabecalho": ["O que rolou", "Vezes", "Na balança"],
+   "linhas": [["Confraternizações", "7", "+1,5 kg"], ["Panetone no café", "30 dias", "+1 kg"], ["Sobras da ceia", "10 dias", "+1 kg"], ["\"Já estraguei mesmo\"", "dezembro", "+0,5 kg"]],
+   "total": ["Em janeiro", "", "+4 kg"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "O problema não era a festa. *Era o método.*", "texto": "Ela tratava dezembro como um mês perdido, e não como um mês normal.",
+   "blocos": [{"titulo": "Tudo ou nada:", "texto": "uma festa virava desculpa pra largar a semana inteira."}, {"titulo": "Chegava com fome:", "texto": "pulava o almoço pra \"compensar\" e exagerava à noite."}, {"titulo": "Dieta só em janeiro:", "texto": "o plano sempre começava depois, nunca agora."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela começou em *novembro*, sem cortar festa.", "texto": "Refeições normais nos dias comuns e um prato montado nas festas.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Ovo no café", "texto": "no lugar do panetone diário"}, {"icone": "drumstick", "titulo": "Proteína primeiro", "texto": "no prato da festa"}, {"icone": "rice", "titulo": "Almoço de verdade", "texto": "antes de cada evento"}],
+   "citacao": "\"Eu fui em todas as festas. Só *parei de chegar morrendo de fome*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "30 minutos de força, *3 vezes por semana*.", "texto": "Na sala de casa, até na semana do Natal. Sem treino perfeito.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Passou pelas festas. *Menos 5 cm* de cintura.",
+   "valores": [74, 73.7, 73.3, 73, 72.6, 72.4, 72.1, 71.6, 71.2, 70.8, 70.4, 70], "cor": "verde",
+   "numeros": [{"valor": "−5 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "7", "rotulo": "festas curtidas"}],
+   "citacao": "\"Pela primeira vez, *janeiro não foi recomeço*. Foi continuação.\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Faltava um plano pro fim de ano.*", "texto": "O passo a passo que a Roberta seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Como calcular **quanto comer**, sem passar fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
