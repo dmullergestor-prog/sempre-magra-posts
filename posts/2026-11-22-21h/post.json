@@ -1,0 +1,170 @@
+{
+ "id": "2026-11-22-21h",
+ "personagem": "Kátia, 39 anos, esteticista",
+ "angulo": "dieta perfeita de segunda a sexta; churrasco, cerveja e pizza no fim de semana desfaziam tudo",
+ "slides": [
+  {
+   "tipo": "capa",
+   "titulo": "\"Na semana eu sou *perfeita*. Aí chega sábado.\"",
+   "texto": "A Kátia fechava a dieta de segunda a sexta. E no domingo, a balança voltava.",
+   "adesivos": [
+    "Churrasco",
+    "Cerveja gelada",
+    "Pizza de sábado",
+    "Pudim de domingo",
+    "Só salada",
+    "Pão liberado"
+   ],
+   "arremate": "...todo sábado.",
+   "rodape": "A história da Kátia"
+  },
+  {
+   "tipo": "tabela",
+   "tag": "A conta da semana",
+   "titulo": "Ela economizava 5 dias e *gastava tudo em 2*.",
+   "texto": "Somou o que comia a mais num fim de semana comum:",
+   "cabecalho": [
+    "Fim de semana",
+    "Kcal",
+    "Proteína"
+   ],
+   "linhas": [
+    [
+     "6 latas de cerveja",
+     "900",
+     "6 g"
+    ],
+    [
+     "Pão de alho e linguiça",
+     "850",
+     "28 g"
+    ],
+    [
+     "Pizza de sábado (4 fatias)",
+     "1.100",
+     "40 g"
+    ],
+    [
+     "Pudim de domingo",
+     "450",
+     "8 g"
+    ]
+   ],
+   "total": [
+    "Só de extra",
+    "3.300",
+    "82 g"
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "Não era culpa dela",
+   "titulo": "Não era falta de foco. *Era fome acumulada.*",
+   "texto": "A semana era tão apertada que o sábado virava compensação.",
+   "blocos": [
+    {
+     "titulo": "Salada sem proteína:",
+     "texto": "ela chegava na sexta faminta e sem energia."
+    },
+    {
+     "titulo": "Proibido na semana:",
+     "texto": "virava \"liberado\" e em dobro no sábado."
+    },
+    {
+     "titulo": "Segunda era castigo:",
+     "texto": "cortava mais ainda e o ciclo recomeçava."
+    }
+   ]
+  },
+  {
+   "tipo": "texto",
+   "tag": "A virada",
+   "titulo": "Ela *parou de passar fome* na semana.",
+   "texto": "Comida de verdade todo dia, pra chegar no sábado sem desespero.",
+   "blocos": [
+    {
+     "icone": "drumstick",
+     "titulo": "Frango no almoço",
+     "texto": "com arroz e feijão"
+    },
+    {
+     "icone": "fried_egg",
+     "titulo": "Ovos no café",
+     "texto": "todo dia, até sábado"
+    },
+    {
+     "icone": "banana",
+     "titulo": "Banana e aveia",
+     "texto": "no lanche da tarde"
+    }
+   ],
+   "citacao": "\"No churrasco eu comi carne e salada *e parei quando enchi*.\""
+  },
+  {
+   "tipo": "texto",
+   "tag": "Sem academia",
+   "titulo": "Força em casa, *até no sábado de manhã.*",
+   "texto": "30 minutos, 3 vezes por semana, entre uma cliente e outra.",
+   "blocos": [
+    {
+     "icone": "agachamento",
+     "titulo": "Agachamento"
+    },
+    {
+     "icone": "afundo",
+     "titulo": "Afundo"
+    },
+    {
+     "icone": "flexão",
+     "titulo": "Flexão"
+    }
+   ]
+  },
+  {
+   "tipo": "resultado",
+   "tag": "12 semanas depois",
+   "titulo": "O domingo *parou de apagar* a semana.",
+   "valores": [
+    81,
+    80.6,
+    80.1,
+    79.7,
+    79.2,
+    78.9,
+    78.4,
+    78,
+    77.7,
+    77.3,
+    77,
+    76.5
+   ],
+   "cor": "verde",
+   "numeros": [
+    {
+     "valor": "−7 cm",
+     "rotulo": "de cintura"
+    },
+    {
+     "valor": "−4,5 kg",
+     "rotulo": "na balança"
+    },
+    {
+     "valor": "0",
+     "rotulo": "segundas de castigo"
+    }
+   ],
+   "citacao": "\"Eu não precisava de força de vontade. *Precisava parar de passar fome.*\""
+  },
+  {
+   "tipo": "cta",
+   "titulo": "Você não falhou no sábado. *O plano falhou na semana.*",
+   "texto": "O passo a passo que a Kátia seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": [
+    "Como calcular **quanto comer**, sem passar fome",
+    "**Cardápios prontos** com comida de casa",
+    "**Treino de força em casa**, em 35 minutos",
+    "Um **plano de 30 dias**, um hábito por vez"
+   ]
+  }
+ ]
+}
