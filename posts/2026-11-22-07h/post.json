@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-22-07h",
+ "personagem": "Simone, 38 anos, vigilante noturna",
+ "angulo": "trabalha no turno da noite: vivia de café, salgado e refri pra ficar acordada e chegava em casa atacando a geladeira",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Quem trabalha à noite *não consegue* emagrecer.\"", "texto": "A Simone vira a noite na portaria há 6 anos. E acreditava nisso.",
+   "adesivos": ["Café de hora em hora", "Salgado às 3h", "Refri pra acordar", "Bolacha na guarita", "Pão ao chegar", "Dormir 4 horas"], "arremate": "...toda madrugada.", "rodape": "A história da Simone"},
+  {"tipo": "tabela", "tag": "Uma noite comum", "titulo": "Ela comia *pra não dormir*, não por fome.", "texto": "Anotou tudo o que comeu num turno de 12 horas:",
+   "cabecalho": ["O que comeu", "Kcal", "Proteína"],
+   "linhas": [["5 cafés com açúcar", "300", "0 g"], ["2 coxinhas às 3h", "580", "16 g"], ["Refri e bolacha", "420", "4 g"], ["Pão com manteiga às 7h", "380", "9 g"]],
+   "total": ["No turno", "1.680", "29 g"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Não era o turno. *Era o jeito de atravessar a noite.*", "texto": "Açúcar pra acordar, cansaço depois e fome de leão ao chegar.",
+   "blocos": [{"titulo": "Açúcar de madrugada:", "texto": "energia que sobe e despenca em 1 hora."}, {"titulo": "Quase sem proteína:", "texto": "a fome nunca passava de verdade."}, {"titulo": "Pouco sono:", "texto": "e corpo cansado pede doce o dia todo."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela passou a *levar a janta* pro turno.", "texto": "Uma refeição de verdade às 23h e um lanche com proteína às 3h.",
+   "blocos": [{"icone": "rice", "titulo": "Arroz, feijão e frango", "texto": "na marmita das 23h"}, {"icone": "egg", "titulo": "Ovos cozidos", "texto": "no lugar da coxinha"}, {"icone": "banana", "titulo": "Banana e café sem açúcar", "texto": "pra fechar o turno"}],
+   "citacao": "\"Eu parei de chegar em casa *atacando a geladeira*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "Força em casa, *antes de sair pro turno*.", "texto": "25 minutos na sala, 3 vezes por semana, às 18h.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "afundo", "titulo": "Afundo"}, {"icone": "flexão", "titulo": "Flexão"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Acordada no turno. *Menos 6 cm* de cintura.",
+   "valores": [84, 83.6, 83.1, 82.7, 82.2, 81.8, 81.3, 80.9, 80.4, 80, 79.5, 79], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "coxinha de madrugada"}],
+   "citacao": "\"Não era a noite. *Era o que eu comia nela.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Seu horário não é desculpa nem sentença.*", "texto": "O passo a passo que a Simone seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["**Marmitas** pra semana em 2 horas", "Como calcular **quanto comer**, sem passar fome", "**Treino de força em casa**, em 35 minutos", "Um **plano de 30 dias**, um hábito por vez"]}
+ ]
+}
