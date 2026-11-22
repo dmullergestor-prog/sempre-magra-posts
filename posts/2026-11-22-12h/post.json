@@ -1,0 +1,26 @@
+{
+ "id": "2026-11-22-12h",
+ "personagem": "Luana, 34 anos, vendedora de ótica",
+ "angulo": "vivia adiando o começo (segunda-feira, dia 1º, depois do Natal, janeiro) esperando o momento perfeito",
+ "slides": [
+  {"tipo": "capa", "titulo": "\"Depois do Natal *eu começo*. Juro.\"", "texto": "A Luana prometia isso todo ano. Janeiro chegava e ela nem começava.",
+   "adesivos": ["Segunda eu começo", "Dia 1º eu começo", "Depois da festa", "Última pizza", "Em janeiro vai", "Despedida do doce"], "arremate": "...todo santo ano.", "rodape": "A história da Luana"},
+  {"tipo": "tabela", "tag": "O ano dela", "titulo": "Ela passou *o ano inteiro* esperando o dia certo.", "texto": "Contou quantas vezes prometeu começar e o que aconteceu:",
+   "cabecalho": ["Promessa", "Durou", "Resultado"],
+   "linhas": [["Segunda-feira", "2 dias", "voltou"], ["Dia 1º do mês", "5 dias", "voltou"], ["Depois do aniversário", "0 dia", "nem foi"], ["Janeiro, dieta radical", "9 dias", "+2 kg"]],
+   "total": ["No ano", "48x", "+3 kg"]},
+  {"tipo": "texto", "tag": "Não era culpa dela", "titulo": "Não era preguiça. *Era o tamanho da promessa.*", "texto": "Cada recomeço era tão radical que só cabia num \"momento perfeito\".",
+   "blocos": [{"titulo": "Tudo de uma vez:", "texto": "cortar doce, pão, arroz e ainda treinar todo dia."}, {"titulo": "A véspera virava festa:", "texto": "\"último rodízio\" antes de cada segunda."}, {"titulo": "Momento perfeito não existe:", "texto": "sempre tinha uma festa, uma viagem, um cansaço."}]},
+  {"tipo": "texto", "tag": "A virada", "titulo": "Ela começou *numa quarta de novembro.*", "texto": "Sem cortar nada. Só um ajuste por semana, em plena época de festa.",
+   "blocos": [{"icone": "fried_egg", "titulo": "Semana 1: ovos", "texto": "no café da manhã"}, {"icone": "beans", "titulo": "Semana 2: feijão", "texto": "e proteína no almoço"}, {"icone": "carrot", "titulo": "Semana 3: legumes", "texto": "na metade do prato"}],
+   "citacao": "\"Pela primeira vez eu não estava *esperando o dia perfeito*.\""},
+  {"tipo": "texto", "tag": "Sem academia", "titulo": "20 minutos de força, *na sala de casa.*", "texto": "3 vezes por semana, antes de abrir a loja. Sem esperar matrícula.",
+   "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "ponte", "titulo": "Ponte"}, {"icone": "remada", "titulo": "Remada"}]},
+  {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Passou pelas festas *sem recomeçar do zero.*",
+   "valores": [79, 78.7, 78.2, 77.8, 77.5, 77.1, 76.7, 76.4, 76, 75.6, 75.3, 75], "cor": "verde",
+   "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−4 kg", "rotulo": "na balança"}, {"valor": "1", "rotulo": "único começo"}],
+   "citacao": "\"O dia certo pra começar *era o dia que eu tinha.*\""},
+  {"tipo": "cta", "titulo": "Você não falhou. *Só esperou um momento que não existe.*", "texto": "O passo a passo que a Luana seguiu está no guia **Shape no Bolso**, por R$ 28,99.",
+   "itens": ["Um **plano de 30 dias**, um hábito por vez", "**Cardápios prontos** com comida de casa", "**Treino de força em casa**, em 35 minutos", "Como calcular **quanto comer**, sem passar fome"]}
+ ]
+}
