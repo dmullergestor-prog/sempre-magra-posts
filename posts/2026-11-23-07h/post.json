@@ -1,0 +1,26 @@
+{
+  "id": "2026-11-23-07h",
+  "personagem": "Natália, 37 anos, cobradora de ônibus",
+  "angulo": "dieta do shake: trocava almoço e jantar por shake, perdia rápido e voltava tudo",
+  "slides": [
+    {"tipo": "capa", "titulo": "\"Eu vivia de *shake*. E o peso sempre voltava.\"", "texto": "A Natália trocava comida por pó. Funcionava por 3 semanas.",
+     "adesivos": ["Shake no almoço", "Shake na janta", "Fome às 22h", "Pão escondido", "Pote de R$ 190", "Recomeçar"], "arremate": "...e tudo de novo.", "rodape": "A história da Natália"},
+    {"tipo": "tabela", "tag": "O histórico", "titulo": "Cada pote de shake era uma *nova promessa*.", "texto": "O que aconteceu nas últimas tentativas:",
+     "cabecalho": ["Tentativa", "Perdeu", "Voltou"],
+     "linhas": [["Shake 2x ao dia", "−4 kg", "+5 kg"], ["Shake + sopa", "−3 kg", "+4 kg"], ["Só shake e fruta", "−5 kg", "+6 kg"], ["Shake e chá", "−2 kg", "+3 kg"]],
+     "total": ["No fim", "−14 kg", "+18 kg"]},
+    {"tipo": "texto", "tag": "Não era fraqueza", "titulo": "Ela não falhou. O shake *não ensina a comer*.", "texto": "Quando o pote acabava, a vida real voltava. E a fome também.",
+     "blocos": [{"titulo": "Pouca comida,", "texto": "fome de leão à noite."}, {"titulo": "Sem rotina de prato,", "texto": "nada mudava de verdade."}, {"titulo": "Músculo indo embora,", "texto": "peso voltando mais fácil."}]},
+    {"tipo": "texto", "tag": "A virada", "titulo": "Ela voltou a *comer comida de verdade*.", "texto": "Prato de casa, com proteína em todas as refeições.",
+     "blocos": [{"icone": "fried_egg", "titulo": "Ovo mexido", "texto": "antes do turno"}, {"icone": "beans", "titulo": "Arroz e feijão", "texto": "com frango na marmita"}, {"icone": "oats", "titulo": "Banana e aveia", "texto": "no intervalo"}],
+     "citacao": "\"Pela primeira vez eu emagreci *comendo*, e não fugindo da comida.\""},
+    {"tipo": "texto", "tag": "Em casa", "titulo": "30 minutos de força, *3 vezes por semana*.", "texto": "Na sala, depois do turno, sem equipamento nenhum.",
+     "blocos": [{"icone": "agachamento", "titulo": "Agachamento"}, {"icone": "remada", "titulo": "Remada"}, {"icone": "ponte", "titulo": "Ponte"}]},
+    {"tipo": "resultado", "tag": "12 semanas depois", "titulo": "Sem shake e sem fome. *Menos 6 cm* de cintura.",
+     "valores": [84, 83.6, 83.1, 82.7, 82.2, 81.7, 81.3, 80.8, 80.4, 79.9, 79.5, 79], "cor": "verde",
+     "numeros": [{"valor": "−6 cm", "rotulo": "de cintura"}, {"valor": "−5 kg", "rotulo": "na balança"}, {"valor": "0", "rotulo": "potes de shake"}],
+     "citacao": "\"Agora eu sei o que comer. *Ninguém me tira isso.*\""},
+    {"tipo": "cta", "titulo": "Você não falhou. *O pote é que acabava.*", "texto": "O passo a passo que a Natália seguiu está no guia **Shape no Bolso**.",
+     "itens": ["Como calcular **quanto comer**, sem fome", "**Cardápios prontos** com comida de casa", "**Treino de força em casa** em 35 min", "O que **não vale** comprar de suplemento"]}
+  ]
+}
